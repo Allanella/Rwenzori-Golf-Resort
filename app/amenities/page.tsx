@@ -1,20 +1,22 @@
-import { Metadata } from 'next'
-import { Header } from '@/components/header'
-import { Footer } from '@/components/footer'
-import { HeroSection } from '@/components/hero-section'
-import { BookingCTA } from '@/components/booking-cta'
-import { Wifi, Flame, Wine, Users } from 'lucide-react'
+import { Metadata } from 'next';
+import { Header } from '@/components/header';
+import { Footer } from '@/components/footer';
+import { HeroSection } from '@/components/hero-section';
+import { BookingCTA } from '@/components/booking-cta';
+import { Wifi, Flame, Wine, Users } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Amenities | Mt. Rwenzori Golf Resort & Spa',
-  description: 'Discover world-class amenities including firepit, terrace, WiFi, and event facilities.',
-}
+  description:
+    'Discover world-class amenities including firepit, terrace, WiFi, and event facilities.',
+};
 
 const amenityCategories = [
   {
     icon: <Flame size={32} />,
     title: 'Cozy Firepit',
-    description: 'Gather around our outdoor firepit for intimate evenings under the stars. Perfect for roasting marshmallows, storytelling, and creating unforgettable memories with loved ones.',
+    description:
+      'Gather around our outdoor firepit for intimate evenings under the stars. Perfect for roasting marshmallows, storytelling, and creating unforgettable memories with loved ones.',
     features: [
       'Seating for up to 20 guests',
       'Complimentary wood and kindling',
@@ -27,7 +29,8 @@ const amenityCategories = [
   {
     icon: <Wine size={32} />,
     title: 'Expansive Terrace',
-    description: 'Enjoy breathtaking mountain views from our spacious terrace. Ideal for al fresco dining, morning coffee, evening cocktails, or simply relaxing with a book.',
+    description:
+      'Enjoy breathtaking mountain views from our spacious terrace. Ideal for al fresco dining, morning coffee, evening cocktails, or simply relaxing with a book.',
     features: [
       'Panoramic mountain views',
       'Weather-protected seating',
@@ -40,7 +43,8 @@ const amenityCategories = [
   {
     icon: <Wifi size={32} />,
     title: 'High-Speed WiFi',
-    description: 'Stay connected with premium high-speed WiFi throughout the resort. Available in all rooms, common areas, terrace, and golf course facilities.',
+    description:
+      'Stay connected with premium high-speed WiFi throughout the resort. Available in all rooms, common areas, terrace, and golf course facilities.',
     features: [
       'Ultra-fast 5G connectivity',
       'Available everywhere on grounds',
@@ -53,7 +57,8 @@ const amenityCategories = [
   {
     icon: <Users size={32} />,
     title: 'Event Hosting',
-    description: 'Host your special events at Mt. Rwenzori. From intimate gatherings to grand celebrations, our venues and dedicated team ensure an unforgettable experience.',
+    description:
+      'Host your special events at Mt. Rwenzori. From intimate gatherings to grand celebrations, our venues and dedicated team ensure an unforgettable experience.',
     features: [
       'Flexible indoor/outdoor spaces',
       'Catering services included',
@@ -63,7 +68,7 @@ const amenityCategories = [
     ],
     image: '/images/terrace.jpg',
   },
-]
+];
 
 const eventTypes = [
   {
@@ -86,7 +91,7 @@ const eventTypes = [
     capacity: '50-200 guests',
     description: 'Bring families together for memorable mountain experiences',
   },
-]
+];
 
 export default function AmenitiesPage() {
   return (
@@ -137,18 +142,11 @@ export default function AmenitiesPage() {
                         {amenity.title}
                       </h3>
                     </div>
-                    <p className="text-foreground/80 mb-6 leading-relaxed">
-                      {amenity.description}
-                    </p>
-                    <h4 className="font-semibold text-foreground mb-3">
-                      Key Features:
-                    </h4>
+                    <p className="text-foreground/80 mb-6 leading-relaxed">{amenity.description}</p>
+                    <h4 className="font-semibold text-foreground mb-3">Key Features:</h4>
                     <ul className="space-y-2 mb-6">
                       {amenity.features.map((feature) => (
-                        <li
-                          key={feature}
-                          className="flex gap-3 items-start text-foreground/80"
-                        >
+                        <li key={feature} className="flex gap-3 items-start text-foreground/80">
                           <span className="text-accent font-bold">•</span>
                           <span>{feature}</span>
                         </li>
@@ -182,12 +180,8 @@ export default function AmenitiesPage() {
                   <h3 className="font-serif text-xl font-bold text-foreground mb-2">
                     {event.name}
                   </h3>
-                  <p className="text-accent font-semibold text-sm mb-3">
-                    {event.capacity}
-                  </p>
-                  <p className="text-foreground/80 text-sm leading-relaxed">
-                    {event.description}
-                  </p>
+                  <p className="text-accent font-semibold text-sm mb-3">{event.capacity}</p>
+                  <p className="text-foreground/80 text-sm leading-relaxed">{event.description}</p>
                 </div>
               ))}
             </div>
@@ -228,6 +222,36 @@ export default function AmenitiesPage() {
             <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-12 text-center">
               More to Explore
             </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+              <div className="bg-white rounded-lg p-6 shadow-md">
+                <img
+                  src="/images/_DSC9736.png"
+                  alt="Mt. Rwenzori Resort Building"
+                  className="w-full h-48 object-cover rounded-lg"
+                />
+                <div className="mt-4">
+                  <h3 className="font-serif text-lg font-bold text-foreground">
+                    Resort Building Gallery
+                  </h3>
+                  <p className="text-foreground/80 text-sm">
+                    Beautiful resort building with modern architecture and mountain views
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white rounded-lg p-6 shadow-md">
+                <img
+                  src="/images/mountain-view.jpg"
+                  alt="Mountain View"
+                  className="w-full h-48 object-cover rounded-lg"
+                />
+                <div className="mt-4">
+                  <h3 className="font-serif text-lg font-bold text-foreground">
+                    Mountain View Test
+                  </h3>
+                  <p className="text-foreground/80 text-sm">Testing mountain view image display</p>
+                </div>
+              </div>
+            </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {[
@@ -276,5 +300,5 @@ export default function AmenitiesPage() {
       </main>
       <Footer />
     </>
-  )
+  );
 }
