@@ -46,7 +46,7 @@ export default function Home() {
     {
       title: 'Luxury Rooms',
       description: 'Elegantly appointed rooms with mountain views and modern amenities',
-      image: '/images/room-standard.jpg',
+      image: '/images/bedroom-twin.jpg',
     },
     {
       title: 'Cozy Firepit',
@@ -56,7 +56,7 @@ export default function Home() {
     {
       title: 'Expansive Terrace',
       description: 'Enjoy scenic views and fine dining from our spacious terrace',
-      image: '/images/terrace.jpg',
+      image: '/images/garden-stream.jpg',
     },
   ];
 
