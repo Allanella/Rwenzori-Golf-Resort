@@ -12,7 +12,7 @@ export default function Home() {
       title: '9-Hole Golf Course',
       description:
         'Challenge yourself on our pristine 9-hole championship course nestled in the heart of the mountains, designed for golfers of all skill levels.',
-      image: '/images/golf-course.jpg',
+      image: '/images/resort-building-main.jpg',
       icon: <Target size={24} />,
       href: '/golf',
     },
@@ -20,7 +20,7 @@ export default function Home() {
       title: 'Premium Spa',
       description:
         'Indulge in rejuvenating spa treatments including massages, thermal baths, and wellness therapies in our serene spa sanctuary.',
-      image: '/images/spa-massage.jpg',
+      image: '/images/resort-building-detail.jpg',
       icon: <Flower2 size={24} />,
       href: '/spa',
     },
@@ -36,7 +36,7 @@ export default function Home() {
       title: 'WiFi Connectivity',
       description:
         'Stay connected with high-speed WiFi available throughout the resort, in your room, terrace, and all common areas.',
-      image: '/images/mountain-view.jpg',
+      image: '/images/resort-garden-view.jpg',
       icon: <Wifi size={24} />,
       href: '/amenities',
     },
