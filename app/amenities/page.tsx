@@ -101,7 +101,7 @@ export default function AmenitiesPage() {
         <HeroSection
           title="World-Class Amenities"
           subtitle="Experience luxury and comfort at every turn"
-          image="/images/terrace.jpg"
+          image="/images/_DSC9766.jpg"
         />
 
         {/* Amenities Showcase */}

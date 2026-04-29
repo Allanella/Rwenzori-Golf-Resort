@@ -1,14 +1,15 @@
-import { Metadata } from 'next'
-import { Header } from '@/components/header'
-import { Footer } from '@/components/footer'
-import { HeroSection } from '@/components/hero-section'
-import { BookingCTA } from '@/components/booking-cta'
-import { Users, Zap, Trophy, MapPin } from 'lucide-react'
+import { Metadata } from 'next';
+import { Header } from '@/components/header';
+import { Footer } from '@/components/footer';
+import { HeroSection } from '@/components/hero-section';
+import { BookingCTA } from '@/components/booking-cta';
+import { Users, Zap, Trophy, MapPin } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Golf | Mt. Rwenzori Golf Resort & Spa',
-  description: 'Championship 9-hole golf course nestled in the mountains. Book your tee time at Mt. Rwenzori.',
-}
+  description:
+    'Championship 9-hole golf course nestled in the mountains. Book your tee time at Mt. Rwenzori.',
+};
 
 const courseStats = [
   {
@@ -31,7 +32,7 @@ const courseStats = [
     value: '144',
     icon: <Users size={24} />,
   },
-]
+];
 
 const golfPackages = [
   {
@@ -66,7 +67,7 @@ const golfPackages = [
       'Evening entertainment',
     ],
   },
-]
+];
 
 export default function GolfPage() {
   return (
@@ -76,7 +77,7 @@ export default function GolfPage() {
         <HeroSection
           title="Championship Golf Course"
           subtitle="Tee off on our pristine 9-hole course nestled in the majestic mountains"
-          image="/images/golf-course.jpg"
+          image="/images/DJI_20260426150955_0005_D.jpg"
         />
 
         {/* Course Overview */}
@@ -93,16 +94,9 @@ export default function GolfPage() {
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
               {courseStats.map((stat) => (
-                <div
-                  key={stat.label}
-                  className="bg-white rounded-lg p-6 text-center shadow-md"
-                >
-                  <div className="flex justify-center mb-4 text-accent">
-                    {stat.icon}
-                  </div>
-                  <p className="text-3xl font-bold text-foreground mb-2">
-                    {stat.value}
-                  </p>
+                <div key={stat.label} className="bg-white rounded-lg p-6 text-center shadow-md">
+                  <div className="flex justify-center mb-4 text-accent">{stat.icon}</div>
+                  <p className="text-3xl font-bold text-foreground mb-2">{stat.value}</p>
                   <p className="text-muted-foreground text-sm">{stat.label}</p>
                 </div>
               ))}
@@ -163,9 +157,7 @@ export default function GolfPage() {
                   }`}
                 >
                   <div className="bg-primary text-primary-foreground p-6">
-                    <h3 className="font-serif text-2xl font-bold mb-2">
-                      {pkg.name}
-                    </h3>
+                    <h3 className="font-serif text-2xl font-bold mb-2">{pkg.name}</h3>
                     <p className="text-sm opacity-90 mb-4">{pkg.description}</p>
                     <div className="text-3xl font-bold">{pkg.price}</div>
                   </div>
@@ -200,7 +192,8 @@ export default function GolfPage() {
                   Golf Lessons & Training
                 </h2>
                 <p className="text-foreground/80 mb-4 leading-relaxed">
-                  Our certified golf instructors offer personalized lessons for all skill levels, from beginners to advanced golfers.
+                  Our certified golf instructors offer personalized lessons for all skill levels,
+                  from beginners to advanced golfers.
                 </p>
                 <ul className="space-y-3 mb-6 text-foreground/80">
                   <li className="flex gap-3">
@@ -226,7 +219,7 @@ export default function GolfPage() {
               </div>
               <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
                 <img
-                  src="/images/golf-course.jpg"
+                  src="/images/DJI_20260426151136_0010_D.jpg"
                   alt="Golf instruction"
                   className="w-full h-full object-cover"
                 />
@@ -239,5 +232,5 @@ export default function GolfPage() {
       </main>
       <Footer />
     </>
-  )
+  );
 }
