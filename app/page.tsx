@@ -12,7 +12,7 @@ export default function Home() {
       title: '9-Hole Golf Course',
       description:
         'Challenge yourself on our pristine 9-hole championship course nestled in the heart of the mountains, designed for golfers of all skill levels.',
-      image: '/images/golf-course.jpg',
+      image: '/images/_DSC9827.jpg',
       icon: <Target size={24} />,
       href: '/golf',
     },
@@ -20,7 +20,7 @@ export default function Home() {
       title: 'Premium Spa',
       description:
         'Indulge in rejuvenating spa treatments including massages, thermal baths, and wellness therapies in our serene spa sanctuary.',
-      image: '/images/spa-massage.jpg',
+      image: '/images/_DSC9743.jpg',
       icon: <Flower2 size={24} />,
       href: '/spa',
     },
@@ -46,7 +46,7 @@ export default function Home() {
     {
       title: 'Luxury Rooms',
       description: 'Elegantly appointed rooms with mountain views and modern amenities',
-      image: '/images/room-standard.jpg',
+      image: '/images/_DSC9760.jpg',
     },
     {
       title: 'Cozy Firepit',
@@ -56,7 +56,7 @@ export default function Home() {
     {
       title: 'Expansive Terrace',
       description: 'Enjoy scenic views and fine dining from our spacious terrace',
-      image: '/images/terrace.jpg',
+      image: '/images/_DSC9848.jpg',
     },
   ];
 
@@ -167,7 +167,7 @@ export default function Home() {
               </div>
               <div className="relative h-96">
                 <img
-                  src="/images/mountain-view.jpg"
+                  src="/images/DJI_20260426151352_0016_D.jpg"
                   alt="Mountain scenery"
                   className="w-full h-full object-cover rounded-lg shadow-lg"
                 />
