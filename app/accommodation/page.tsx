@@ -1,21 +1,22 @@
-import { Metadata } from 'next'
-import { Header } from '@/components/header'
-import { Footer } from '@/components/footer'
-import { HeroSection } from '@/components/hero-section'
-import { BookingCTA } from '@/components/booking-cta'
-import { Check } from 'lucide-react'
-import Link from 'next/link'
+import { Metadata } from 'next';
+import { Header } from '@/components/header';
+import { Footer } from '@/components/footer';
+import { HeroSection } from '@/components/hero-section';
+import { BookingCTA } from '@/components/booking-cta';
+import { Check } from 'lucide-react';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Accommodation | Mt. Rwenzori Golf Resort & Spa',
-  description: 'Luxury rooms and suites with stunning mountain views. Experience comfort and elegance at Mt. Rwenzori.',
-}
+  description:
+    'Luxury rooms and suites with stunning mountain views. Experience comfort and elegance at Mt. Rwenzori.',
+};
 
 const roomTypes = [
   {
     name: 'Standard Room',
     price: '$150/night',
-    image: '/images/room-standard.jpg',
+    image: '/images/_DSC9806.jpg',
     amenities: [
       'King or twin beds',
       'Mountain view',
@@ -32,7 +33,7 @@ const roomTypes = [
   {
     name: 'Deluxe Suite',
     price: '$250/night',
-    image: '/images/room-suite.jpg',
+    image: '/images/_DSC9796.jpg',
     amenities: [
       'Spacious bedroom',
       'Separate living area',
@@ -48,7 +49,7 @@ const roomTypes = [
     description:
       'Our Deluxe Suites feature separate living spaces, luxurious bathrooms, and private balconies overlooking the mountains. Ideal for special occasions and extended stays.',
   },
-]
+];
 
 export default function AccommodationPage() {
   return (
@@ -58,7 +59,7 @@ export default function AccommodationPage() {
         <HeroSection
           title="Luxury Accommodation"
           subtitle="Experience comfort and elegance surrounded by majestic mountain peaks"
-          image="/images/room-suite.jpg"
+          image="/images/_DSC9790.jpg"
         />
 
         {/* Room Types Section */}
@@ -94,12 +95,8 @@ export default function AccommodationPage() {
                     <h3 className="font-serif text-3xl font-bold text-foreground mb-2">
                       {room.name}
                     </h3>
-                    <p className="text-accent text-xl font-semibold mb-4">
-                      {room.price}
-                    </p>
-                    <p className="text-foreground/80 mb-6 leading-relaxed">
-                      {room.description}
-                    </p>
+                    <p className="text-accent text-xl font-semibold mb-4">{room.price}</p>
+                    <p className="text-foreground/80 mb-6 leading-relaxed">{room.description}</p>
 
                     <div className="mb-8">
                       <h4 className="font-serif text-lg font-bold text-foreground mb-4">
@@ -107,14 +104,9 @@ export default function AccommodationPage() {
                       </h4>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                         {room.amenities.map((amenity) => (
-                          <div
-                            key={amenity}
-                            className="flex gap-3 items-start"
-                          >
+                          <div key={amenity} className="flex gap-3 items-start">
                             <Check size={20} className="text-accent flex-shrink-0 mt-0.5" />
-                            <span className="text-foreground/80 text-sm">
-                              {amenity}
-                            </span>
+                            <span className="text-foreground/80 text-sm">{amenity}</span>
                           </div>
                         ))}
                       </div>
@@ -136,7 +128,7 @@ export default function AccommodationPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
                 <img
-                  src="/images/breakfast.jpg"
+                  src="/images/_DSC9782.jpg"
                   alt="English breakfast"
                   className="w-full h-full object-cover"
                 />
@@ -146,7 +138,8 @@ export default function AccommodationPage() {
                   Traditional English Breakfast
                 </h2>
                 <p className="text-foreground/80 mb-4 leading-relaxed">
-                  Every morning at Mt. Rwenzori, we serve a sumptuous full English breakfast featuring:
+                  Every morning at Mt. Rwenzori, we serve a sumptuous full English breakfast
+                  featuring:
                 </p>
                 <ul className="space-y-2 mb-6">
                   {[
@@ -166,8 +159,57 @@ export default function AccommodationPage() {
                   ))}
                 </ul>
                 <p className="text-foreground/80 leading-relaxed">
-                  All room packages include a complimentary full breakfast served in our dining room or on your private balcony.
+                  All room packages include a complimentary full breakfast served in our dining room
+                  or on your private balcony.
                 </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Resort Gallery Section */}
+        <section className="py-16 md:py-24 bg-background">
+          <div className="max-w-7xl mx-auto px-4 md:px-6">
+            <div className="text-center mb-12">
+              <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-4">
+                Resort Experience
+              </h2>
+              <p className="text-lg text-muted-foreground">
+                Discover the beauty and comfort of Mt. Rwenzori
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+              <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
+                <img
+                  src="/images/_DSC9788.jpg"
+                  alt="Resort dining experience"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <div>
+                <h3 className="font-serif text-3xl font-bold text-foreground mb-4">
+                  Exceptional Dining
+                </h3>
+                <p className="text-foreground/80 mb-6 leading-relaxed">
+                  Experience fine dining at its best with our carefully curated menu featuring both
+                  local and international cuisine. Our chefs use only the freshest ingredients
+                  sourced from local farms and markets.
+                </p>
+                <ul className="space-y-3 mb-6">
+                  {[
+                    'Farm-to-table dining experience',
+                    'Expertly crafted seasonal menus',
+                    'Extensive wine selection',
+                    'Private dining available',
+                    '24-hour room service',
+                    'Dietary accommodations',
+                  ].map((feature) => (
+                    <li key={feature} className="flex gap-3 items-start">
+                      <Check size={20} className="text-accent flex-shrink-0 mt-0.5" />
+                      <span className="text-foreground/80">{feature}</span>
+                    </li>
+                  ))}
+                </ul>
               </div>
             </div>
           </div>
@@ -177,5 +219,5 @@ export default function AccommodationPage() {
       </main>
       <Footer />
     </>
-  )
+  );
 }
