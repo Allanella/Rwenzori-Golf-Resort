@@ -68,7 +68,7 @@ export default function Home() {
           title="Mt. Rwenzori Golf Resort & Spa"
           subtitle="A serene mountain retreat offering luxury accommodation, championship golf, and world-class spa services"
           video="/Sparvideo_preview.mp4"
-          image="/images/hero-background.jpg"
+          image="/images/resort-hero.jpg"
           ctaText="Explore Our Resort"
           ctaHref="#features"
         />
