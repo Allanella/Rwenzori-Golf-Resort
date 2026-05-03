@@ -156,7 +156,7 @@ export default function ContactPage() {
                       id="phone"
                       name="phone"
                       className="w-full px-4 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-accent bg-background"
-                      placeholder="+256 XXX XXX XXX"
+                      placeholder="+256 746 077 473"
                     />
                   </div>
 
