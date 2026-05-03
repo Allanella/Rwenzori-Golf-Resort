@@ -1,8 +1,8 @@
-import Link from 'next/link'
-import { MapPin, Phone, Mail, Clock } from 'lucide-react'
+import Link from 'next/link';
+import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
 export function Footer() {
-  const currentYear = new Date().getFullYear()
+  const currentYear = new Date().getFullYear();
 
   return (
     <footer className="bg-primary text-primary-foreground">
@@ -17,7 +17,8 @@ export function Footer() {
               <span className="font-serif text-lg font-bold">Mt. Rwenzori</span>
             </div>
             <p className="text-sm opacity-90">
-              A serene mountain retreat offering luxury accommodation, world-class golf, and rejuvenating spa services.
+              A serene mountain retreat offering luxury accommodation, world-class golf, and
+              rejuvenating spa services.
             </p>
           </div>
 
@@ -91,9 +92,21 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-sm opacity-80">
-            &copy; {currentYear} Mt. Rwenzori Golf Resort & Spa. All rights reserved.
-          </p>
+          <div className="flex flex-col md:flex-row items-center gap-4 text-sm opacity-80">
+            <p>&copy; {currentYear} Mt. Rwenzori Golf Resort & Spa. All rights reserved.</p>
+            <div className="flex items-center gap-2 text-xs opacity-70">
+              <span>•</span>
+              <span>Developed by Baliddawa Allan</span>
+              <span>•</span>
+              <a href="tel:0700966715" className="hover:opacity-100 transition-opacity">
+                0700966715
+              </a>
+              <span>•</span>
+              <a href="tel:0785639406" className="hover:opacity-100 transition-opacity">
+                0785639406
+              </a>
+            </div>
+          </div>
           <div className="flex gap-6">
             <Link href="#" className="text-sm hover:opacity-80 transition-opacity">
               Privacy Policy
@@ -105,5 +118,5 @@ export function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }

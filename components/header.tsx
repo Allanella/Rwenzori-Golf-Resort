@@ -1,13 +1,13 @@
-'use client'
+'use client';
 
-import Link from 'next/link'
-import { useState } from 'react'
-import { Menu, X } from 'lucide-react'
+import Link from 'next/link';
+import { useState } from 'react';
+import { Menu, X, Calendar, Facebook, Instagram, Twitter, Phone } from 'lucide-react';
 
 export function Header() {
-  const [isOpen, setIsOpen] = useState(false)
+  const [isOpen, setIsOpen] = useState(false);
 
-  const toggleMenu = () => setIsOpen(!isOpen)
+  const toggleMenu = () => setIsOpen(!isOpen);
 
   const navLinks = [
     { href: '/', label: 'Home' },
@@ -17,7 +17,13 @@ export function Header() {
     { href: '/amenities', label: 'Amenities' },
     { href: '/about', label: 'About' },
     { href: '/contact', label: 'Contact' },
-  ]
+  ];
+
+  const socialLinks = [
+    { href: 'https://facebook.com', icon: Facebook, label: 'Facebook' },
+    { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
+    { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
+  ];
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-border">
@@ -32,7 +38,7 @@ export function Header() {
         </Link>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex gap-1">
+        <nav className="hidden md:flex items-center gap-1">
           {navLinks.map((link) => (
             <Link
               key={link.href}
@@ -42,6 +48,38 @@ export function Header() {
               {link.label}
             </Link>
           ))}
+
+          {/* Booking Button */}
+          <Link
+            href="/booking"
+            className="ml-4 flex items-center gap-2 bg-accent hover:bg-accent/90 text-accent-foreground px-4 py-2 rounded-md font-semibold transition-colors"
+          >
+            <Calendar size={16} />
+            Book Now
+          </Link>
+
+          {/* Social Links */}
+          <div className="ml-4 flex items-center gap-2">
+            {socialLinks.map((social) => (
+              <a
+                key={social.label}
+                href={social.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-2 text-muted-foreground hover:text-accent transition-colors"
+                aria-label={social.label}
+              >
+                <social.icon size={18} />
+              </a>
+            ))}
+            <a
+              href="tel:+256746077473"
+              className="p-2 text-muted-foreground hover:text-accent transition-colors"
+              aria-label="Phone"
+            >
+              <Phone size={18} />
+            </a>
+          </div>
         </nav>
 
         {/* Mobile Menu Button */}
@@ -67,10 +105,43 @@ export function Header() {
                   {link.label}
                 </Link>
               ))}
+
+              {/* Mobile Booking Button */}
+              <Link
+                href="/booking"
+                className="flex items-center gap-2 bg-accent hover:bg-accent/90 text-accent-foreground px-4 py-2 rounded-md font-semibold transition-colors mt-2"
+                onClick={() => setIsOpen(false)}
+              >
+                <Calendar size={16} />
+                Book Now
+              </Link>
+
+              {/* Mobile Social Links */}
+              <div className="flex items-center gap-2 pt-2 border-t mt-2">
+                {socialLinks.map((social) => (
+                  <a
+                    key={social.label}
+                    href={social.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="p-2 text-muted-foreground hover:text-accent transition-colors"
+                    aria-label={social.label}
+                  >
+                    <social.icon size={18} />
+                  </a>
+                ))}
+                <a
+                  href="tel:+256746077473"
+                  className="p-2 text-muted-foreground hover:text-accent transition-colors"
+                  aria-label="Phone"
+                >
+                  <Phone size={18} />
+                </a>
+              </div>
             </div>
           </nav>
         )}
       </div>
     </header>
-  )
+  );
 }
