@@ -51,9 +51,10 @@ export default function ContactPage() {
                   <h3 className="font-serif text-lg font-bold text-foreground">Phone</h3>
                 </div>
                 <p className="text-foreground/80 text-sm mb-2">
-                  <a href="tel:+256XXX" className="hover:text-accent transition-colors">
-                    +256 XXX XXX XXX
+                  <a href="tel:+256746077473" className="hover:text-accent transition-colors">
+                    +256 746 077 473
                   </a>
+                  <span className="text-muted-foreground text-xs ml-2">or call us</span>
                 </p>
                 <p className="text-muted-foreground text-xs">Available 24/7</p>
               </div>
