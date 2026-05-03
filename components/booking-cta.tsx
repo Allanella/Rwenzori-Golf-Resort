@@ -1,5 +1,5 @@
-import Link from 'next/link'
-import { Calendar, Mail, Phone } from 'lucide-react'
+import Link from 'next/link';
+import { Calendar, Mail, Phone } from 'lucide-react';
 
 export function BookingCTA() {
   return (
@@ -10,9 +10,7 @@ export function BookingCTA() {
           <div className="flex flex-col items-center text-center gap-4">
             <Calendar size={32} />
             <h3 className="font-serif text-2xl font-bold">Book Your Stay</h3>
-            <p className="text-sm opacity-90 mb-4">
-              Reserve your perfect mountain retreat today
-            </p>
+            <p className="text-sm opacity-90 mb-4">Reserve your perfect mountain retreat today</p>
             <Link
               href="/accommodation"
               className="bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors"
@@ -25,14 +23,12 @@ export function BookingCTA() {
           <div className="flex flex-col items-center text-center gap-4">
             <Phone size={32} />
             <h3 className="font-serif text-2xl font-bold">Call Us</h3>
-            <p className="text-sm opacity-90 mb-4">
-              Speak to our reservation team
-            </p>
+            <p className="text-sm opacity-90 mb-4">Speak to our reservation team</p>
             <a
-              href="tel:+256XXX"
+              href="tel:+256746077473"
               className="bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors"
             >
-              +256 XXX XXX XXX
+              +256 746 077 473
             </a>
           </div>
 
@@ -40,9 +36,7 @@ export function BookingCTA() {
           <div className="flex flex-col items-center text-center gap-4">
             <Mail size={32} />
             <h3 className="font-serif text-2xl font-bold">Email Us</h3>
-            <p className="text-sm opacity-90 mb-4">
-              Send us your inquiries
-            </p>
+            <p className="text-sm opacity-90 mb-4">Send us your inquiries</p>
             <a
               href="mailto:info@mtrwenzori.com"
               className="bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors"
@@ -53,5 +47,5 @@ export function BookingCTA() {
         </div>
       </div>
     </section>
-  )
+  );
 }
