@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
-import { Menu, X, Calendar, Facebook, Instagram, Twitter, Phone } from 'lucide-react';
+import { Menu, X, Calendar, Facebook, Instagram, Twitter, Phone, Music } from 'lucide-react';
 
 export function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -23,6 +23,7 @@ export function Header() {
     { href: 'https://facebook.com', icon: Facebook, label: 'Facebook' },
     { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
     { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
+    { href: 'https://tiktok.com/@mtrwenzori', icon: Music, label: 'TikTok' },
   ];
 
   return (
