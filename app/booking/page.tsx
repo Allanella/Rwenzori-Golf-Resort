@@ -240,7 +240,7 @@ export default function BookingPage() {
                     className="mr-3 w-5 h-5 text-accent border-border rounded focus:ring-accent"
                   />
                   <div className="flex items-center gap-3">
-                    <Target className="w-5 h-5 text-accent" />
+                    <Golf className="w-5 h-5 text-accent" />
                     <div>
                       <span className="font-medium text-foreground">Add Golf Round</span>
                       <p className="text-sm text-muted-foreground">
