@@ -1,25 +1,24 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Metadata } from 'next'
 import { Header } from '@/components/header'
 import { Footer } from '@/components/footer'
-import { HeroSection } from '@/components/hero-section'
-import { Check, Calendar, Users, Phone, Mail, MapPin, CreditCard, Shield } from 'lucide-react'
+import { Check, Calendar, Users, Phone, Mail, MapPin, Shield } from 'lucide-react'
 import Link from 'next/link'
 
 export default function BookingConfirmationPage() {
   const [bookingDetails, setBookingDetails] = useState<any>(null)
   const [loading, setLoading] = useState(true)
+  const [visible, setVisible] = useState(false)
 
   useEffect(() => {
-    // Simulate loading booking details from URL params or localStorage
     const timer = setTimeout(() => {
       setBookingDetails({
         id: 'RWZ' + Date.now(),
         room: 'Deluxe Room',
         checkIn: '2024-06-15',
         checkOut: '2024-06-18',
+        nights: 3,
         guests: 2,
         totalPrice: 300,
         includesGolf: true,
@@ -27,23 +26,51 @@ export default function BookingConfirmationPage() {
           firstName: 'John',
           lastName: 'Doe',
           email: 'john@example.com',
-          phone: '+256 746 077 473'
-        }
+          phone: '+256 746 077 473',
+        },
       })
       setLoading(false)
-    }, 1500)
-
+      setTimeout(() => setVisible(true), 80)
+    }, 1600)
     return () => clearTimeout(timer)
   }, [])
 
+  /* ─── Loading state ─────────────────────── */
   if (loading) {
     return (
       <>
+        <style>{`
+          @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=DM+Sans:opsz,wght@9..40,300;9..40,400&display=swap');
+          .bc-loader {
+            min-height: 100svh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: #f9f6f1;
+            font-family: 'DM Sans', sans-serif;
+            gap: 20px;
+          }
+          .bc-spinner {
+            width: 48px; height: 48px;
+            border: 1px solid rgba(184,148,90,0.2);
+            border-top-color: #b8945a;
+            border-radius: 50%;
+            animation: bc-spin 0.9s linear infinite;
+          }
+          @keyframes bc-spin { to { transform: rotate(360deg); } }
+          .bc-loader-text {
+            font-size: 12px;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: rgba(26,31,27,0.4);
+          }
+        `}</style>
         <Header />
-        <main className="min-h-screen flex items-center justify-center">
-          <div className="text-center">
-            <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-accent mx-auto mb-4"></div>
-            <p className="text-lg text-muted-foreground">Processing your booking...</p>
+        <main>
+          <div className="bc-loader">
+            <div className="bc-spinner" />
+            <p className="bc-loader-text">Confirming your reservation…</p>
           </div>
         </main>
         <Footer />
@@ -51,203 +78,642 @@ export default function BookingConfirmationPage() {
     )
   }
 
+  /* ─── Confirmed state ───────────────────── */
   return (
     <>
-      <Header />
-      <main>
-        <HeroSection
-          title="Booking Confirmed!"
-          subtitle="Your luxury getaway at Mt. Rwenzori is all set"
-          image="/images/_DSC9854.png"
-        />
+      <style>{`
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap');
 
-        {/* Confirmation Details */}
-        <section className="py-16 md:py-24 bg-background">
-          <div className="max-w-4xl mx-auto px-4 md:px-6">
-            <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
-              {/* Success Header */}
-              <div className="bg-gradient-to-r from-accent to-primary p-8 text-center">
-                <div className="w-20 h-20 bg-white rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Check className="w-10 h-10 text-accent" />
-                </div>
-                <h1 className="font-serif text-3xl font-bold text-white mb-2">
-                  Booking Confirmed
-                </h1>
-                <p className="text-white/90">
-                  Confirmation Number: <span className="font-mono font-bold">{bookingDetails.id}</span>
-                </p>
-              </div>
+        :root {
+          --bc-cream:   #f9f6f1;
+          --bc-sand:    #e8dece;
+          --bc-forest:  #2c3d2e;
+          --bc-gold:    #b8945a;
+          --bc-gold-lt: #d4aa72;
+          --bc-ink:     #1a1f1b;
+          --bc-muted:   #6b7569;
+        }
 
-              <div className="p-8">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                  {/* Booking Details */}
+        .bc-page {
+          font-family: 'DM Sans', sans-serif;
+          color: var(--bc-ink);
+          background: var(--bc-cream);
+        }
+
+        .bc-serif { font-family: 'Cormorant Garamond', Georgia, serif; }
+
+        .bc-eyebrow {
+          display: inline-flex;
+          align-items: center;
+          gap: 10px;
+          font-size: 11px;
+          letter-spacing: 0.22em;
+          text-transform: uppercase;
+          color: var(--bc-gold);
+          font-weight: 400;
+          margin-bottom: 14px;
+        }
+        .bc-eyebrow::before {
+          content: '';
+          width: 24px; height: 1px;
+          background: var(--bc-gold);
+          display: block;
+          flex-shrink: 0;
+        }
+
+        /* ─── Hero banner (replaces HeroSection) ── */
+        .bc-hero {
+          background: var(--bc-forest);
+          padding: 120px clamp(20px,5vw,64px) 80px;
+          text-align: center;
+          position: relative;
+          overflow: hidden;
+        }
+
+        .bc-hero::before {
+          content: '';
+          position: absolute;
+          inset: 0;
+          background:
+            radial-gradient(ellipse at 20% 60%, rgba(184,148,90,0.07) 0%, transparent 55%),
+            radial-gradient(ellipse at 80% 40%, rgba(74,103,65,0.12) 0%, transparent 55%);
+          pointer-events: none;
+        }
+
+        .bc-hero::after {
+          content: '';
+          position: absolute;
+          bottom: 0; left: 0; right: 0;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, rgba(184,148,90,0.35), transparent);
+        }
+
+        .bc-hero-check {
+          width: 72px; height: 72px;
+          border-radius: 50%;
+          border: 1px solid rgba(184,148,90,0.4);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto 28px;
+          color: var(--bc-gold);
+          position: relative;
+          z-index: 1;
+          animation: bc-pop 0.6s cubic-bezier(0.34,1.56,0.64,1) 0.2s both;
+        }
+
+        @keyframes bc-pop {
+          from { transform: scale(0.5); opacity: 0; }
+          to   { transform: scale(1);   opacity: 1; }
+        }
+
+        .bc-hero-title {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: clamp(36px, 5vw, 60px);
+          font-weight: 300;
+          color: #f9f6f1;
+          line-height: 1.1;
+          margin-bottom: 16px;
+          position: relative;
+          z-index: 1;
+          animation: bc-fade-up 0.7s ease 0.35s both;
+        }
+
+        .bc-hero-title em { font-style: italic; color: var(--bc-gold-lt); }
+
+        .bc-hero-id {
+          font-size: 12px;
+          letter-spacing: 0.18em;
+          text-transform: uppercase;
+          color: rgba(249,246,241,0.4);
+          position: relative;
+          z-index: 1;
+          animation: bc-fade-up 0.7s ease 0.5s both;
+        }
+
+        .bc-hero-id span {
+          color: rgba(249,246,241,0.7);
+          font-weight: 400;
+        }
+
+        @keyframes bc-fade-up {
+          from { opacity: 0; transform: translateY(20px); }
+          to   { opacity: 1; transform: translateY(0); }
+        }
+
+        /* ─── Main content ────────────────────────── */
+        .bc-main {
+          padding: clamp(48px, 7vw, 96px) clamp(20px, 5vw, 64px);
+        }
+
+        .bc-inner {
+          max-width: 960px;
+          margin: 0 auto;
+          opacity: 0;
+          transform: translateY(24px);
+          transition: opacity 0.7s ease 0.1s, transform 0.7s ease 0.1s;
+        }
+
+        .bc-inner.visible {
+          opacity: 1;
+          transform: translateY(0);
+        }
+
+        /* ─── Two-col card grid ───────────────────── */
+        .bc-card-grid {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 2px;
+          background: var(--bc-sand);
+          margin-bottom: 2px;
+        }
+
+        @media (max-width: 680px) {
+          .bc-card-grid { grid-template-columns: 1fr; }
+        }
+
+        .bc-card {
+          background: var(--bc-cream);
+          padding: clamp(28px, 4vw, 48px);
+        }
+
+        .bc-card--dark {
+          background: var(--bc-forest);
+        }
+
+        .bc-card-head {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          margin-bottom: 28px;
+        }
+
+        .bc-card-icon {
+          width: 38px; height: 38px;
+          border: 1px solid rgba(184,148,90,0.35);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: var(--bc-gold);
+          flex-shrink: 0;
+        }
+
+        .bc-card-icon--light { border-color: rgba(184,148,90,0.25); }
+
+        .bc-card-title {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 22px;
+          font-weight: 400;
+          color: var(--bc-forest);
+        }
+
+        .bc-card--dark .bc-card-title { color: #f9f6f1; }
+
+        /* ─── Row items ───────────────────────────── */
+        .bc-row {
+          display: flex;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 12px;
+          padding: 12px 0;
+          border-bottom: 1px solid rgba(26,31,27,0.07);
+          font-size: 13.5px;
+        }
+
+        .bc-row:last-child { border-bottom: none; }
+
+        .bc-row-label { color: var(--bc-muted); font-weight: 300; }
+        .bc-row-value { color: var(--bc-ink); font-weight: 400; text-align: right; }
+        .bc-row-value--gold { color: var(--bc-gold); }
+        .bc-row-value--total {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 22px;
+          font-weight: 400;
+          color: var(--bc-gold);
+        }
+        .bc-row-label--total { font-weight: 400; color: var(--bc-ink); font-size: 14px; }
+
+        .bc-card--dark .bc-row { border-color: rgba(255,255,255,0.07); }
+        .bc-card--dark .bc-row-label { color: rgba(249,246,241,0.4); }
+        .bc-card--dark .bc-row-value { color: rgba(249,246,241,0.85); }
+
+        /* ─── Guest info rows ─────────────────────── */
+        .bc-guest-row {
+          display: flex;
+          align-items: center;
+          gap: 14px;
+          padding: 14px 0;
+          border-bottom: 1px solid rgba(26,31,27,0.07);
+        }
+        .bc-guest-row:last-child { border-bottom: none; }
+
+        .bc-guest-icon {
+          width: 36px; height: 36px;
+          border: 1px solid rgba(184,148,90,0.25);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: var(--bc-gold);
+          flex-shrink: 0;
+        }
+
+        .bc-guest-name {
+          font-size: 14px;
+          font-weight: 400;
+          color: var(--bc-ink);
+          line-height: 1.2;
+        }
+
+        .bc-guest-sub {
+          font-size: 11px;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          color: var(--bc-muted);
+          margin-top: 2px;
+        }
+
+        /* ─── Info strip ──────────────────────────── */
+        .bc-info-strip {
+          background: var(--bc-forest);
+          padding: clamp(28px, 4vw, 44px) clamp(28px, 4vw, 48px);
+          margin-bottom: 2px;
+        }
+
+        .bc-info-head {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 18px;
+          font-weight: 400;
+          color: #f9f6f1;
+          margin-bottom: 20px;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .bc-info-head::before {
+          content: '';
+          width: 20px; height: 1px;
+          background: var(--bc-gold);
+          display: block;
+          flex-shrink: 0;
+        }
+
+        .bc-info-list {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 12px 40px;
+          list-style: none;
+          padding: 0; margin: 0;
+        }
+
+        @media (max-width: 560px) { .bc-info-list { grid-template-columns: 1fr; } }
+
+        .bc-info-item {
+          display: flex;
+          align-items: flex-start;
+          gap: 10px;
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          line-height: 1.65;
+          font-weight: 300;
+        }
+
+        .bc-info-dot {
+          width: 5px; height: 5px;
+          border-radius: 50%;
+          background: var(--bc-gold);
+          flex-shrink: 0;
+          margin-top: 6px;
+          opacity: 0.7;
+        }
+
+        /* ─── Actions ─────────────────────────────── */
+        .bc-actions {
+          background: var(--bc-cream);
+          padding: clamp(24px, 3vw, 36px) clamp(28px, 4vw, 48px);
+          display: flex;
+          gap: 14px;
+          flex-wrap: wrap;
+        }
+
+        .bc-btn-primary {
+          flex: 1;
+          min-width: 160px;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          gap: 10px;
+          background: var(--bc-forest);
+          color: var(--bc-cream);
+          padding: 14px 28px;
+          font-family: 'DM Sans', sans-serif;
+          font-size: 11px;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+          text-decoration: none;
+          border: 1px solid var(--bc-forest);
+          border-radius: 1px;
+          transition: background 0.3s ease, transform 0.3s ease;
+          cursor: pointer;
+        }
+
+        .bc-btn-primary:hover {
+          background: var(--bc-gold);
+          border-color: var(--bc-gold);
+          transform: translateY(-2px);
+        }
+
+        .bc-btn-outline {
+          flex: 1;
+          min-width: 160px;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          gap: 10px;
+          background: transparent;
+          color: var(--bc-forest);
+          padding: 14px 28px;
+          font-family: 'DM Sans', sans-serif;
+          font-size: 11px;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+          text-decoration: none;
+          border: 1px solid rgba(26,31,27,0.3);
+          border-radius: 1px;
+          transition: background 0.3s ease, color 0.3s ease, transform 0.3s ease;
+        }
+
+        .bc-btn-outline:hover {
+          background: var(--bc-forest);
+          color: var(--bc-cream);
+          border-color: var(--bc-forest);
+          transform: translateY(-2px);
+        }
+
+        /* ─── Next steps ──────────────────────────── */
+        .bc-next {
+          background: var(--bc-forest);
+          padding: clamp(64px, 8vw, 100px) clamp(20px, 5vw, 64px);
+        }
+
+        .bc-next-inner { max-width: 960px; margin: 0 auto; }
+
+        .bc-next-header { text-align: center; margin-bottom: 56px; }
+
+        .bc-next-h2 {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: clamp(32px, 4vw, 50px);
+          font-weight: 300;
+          color: #f9f6f1;
+          line-height: 1.1;
+        }
+
+        .bc-next-h2 em { font-style: italic; color: var(--bc-gold-lt); }
+
+        .bc-next-rule {
+          width: 40px; height: 1px;
+          background: var(--bc-gold);
+          margin: 20px auto;
+        }
+
+        .bc-next-grid {
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          gap: 2px;
+          background: rgba(255,255,255,0.06);
+        }
+
+        @media (max-width: 680px) { .bc-next-grid { grid-template-columns: 1fr; } }
+
+        .bc-next-card {
+          background: rgba(26,31,27,0.5);
+          padding: 40px 32px;
+          position: relative;
+          overflow: hidden;
+          transition: background 0.35s ease;
+        }
+
+        .bc-next-card:hover { background: rgba(44,61,46,0.8); }
+
+        .bc-next-card::before {
+          content: '';
+          position: absolute;
+          top: 0; left: 0; right: 0;
+          height: 2px;
+          background: var(--bc-gold);
+          transform: scaleX(0);
+          transform-origin: left;
+          transition: transform 0.4s ease;
+        }
+
+        .bc-next-card:hover::before { transform: scaleX(1); }
+
+        .bc-next-icon {
+          width: 48px; height: 48px;
+          border: 1px solid rgba(184,148,90,0.25);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: var(--bc-gold);
+          margin-bottom: 22px;
+          transition: background 0.3s ease, border-color 0.3s ease;
+        }
+
+        .bc-next-card:hover .bc-next-icon {
+          background: var(--bc-gold);
+          color: var(--bc-cream);
+          border-color: var(--bc-gold);
+        }
+
+        .bc-next-title {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 21px;
+          font-weight: 400;
+          color: #f9f6f1;
+          margin-bottom: 12px;
+        }
+
+        .bc-next-desc {
+          font-size: 13px;
+          line-height: 1.75;
+          color: rgba(249,246,241,0.4);
+          font-weight: 300;
+        }
+      `}</style>
+
+      <div className="bc-page">
+        <Header />
+        <main>
+
+          {/* ─── Hero banner ────────────────────────── */}
+          <div className="bc-hero">
+            <div className="bc-hero-check">
+              <Check size={30} strokeWidth={1.5} />
+            </div>
+            <h1 className="bc-hero-title">
+              Booking <em>Confirmed</em>
+            </h1>
+            <p className="bc-hero-id">
+              Confirmation&nbsp;·&nbsp;<span>{bookingDetails.id}</span>
+            </p>
+          </div>
+
+          {/* ─── Confirmation details ────────────────── */}
+          <section className="bc-main">
+            <div className={`bc-inner${visible ? ' visible' : ''}`}>
+
+              {/* Two-col: booking + guest */}
+              <div className="bc-card-grid">
+                {/* Booking details */}
+                <div className="bc-card">
+                  <div className="bc-card-head">
+                    <div className="bc-card-icon"><Calendar size={16} strokeWidth={1.5} /></div>
+                    <div className="bc-card-title">Booking Details</div>
+                  </div>
                   <div>
-                    <h2 className="font-serif text-2xl font-bold text-foreground mb-6 flex items-center gap-2">
-                      <Calendar className="w-6 h-6 text-accent" />
-                      Booking Details
-                    </h2>
-                    
-                    <div className="space-y-4">
-                      <div className="flex justify-between py-3 border-b">
-                        <span className="text-muted-foreground">Room Type</span>
-                        <span className="font-medium text-foreground">{bookingDetails.room}</span>
+                    {[
+                      { label: 'Room Type',   value: bookingDetails.room },
+                      { label: 'Check-in',    value: bookingDetails.checkIn },
+                      { label: 'Check-out',   value: bookingDetails.checkOut },
+                      { label: 'Duration',    value: `${bookingDetails.nights} Nights` },
+                      { label: 'Guests',      value: `${bookingDetails.guests} Guests` },
+                      ...(bookingDetails.includesGolf
+                        ? [{ label: 'Golf Rounds', value: 'Included', gold: true }]
+                        : []),
+                    ].map((row) => (
+                      <div key={row.label} className="bc-row">
+                        <span className="bc-row-label">{row.label}</span>
+                        <span className={`bc-row-value${(row as any).gold ? ' bc-row-value--gold' : ''}`}>
+                          {row.value}
+                        </span>
                       </div>
-                      <div className="flex justify-between py-3 border-b">
-                        <span className="text-muted-foreground">Check-in</span>
-                        <span className="font-medium text-foreground">{bookingDetails.checkIn}</span>
-                      </div>
-                      <div className="flex justify-between py-3 border-b">
-                        <span className="text-muted-foreground">Check-out</span>
-                        <span className="font-medium text-foreground">{bookingDetails.checkOut}</span>
-                      </div>
-                      <div className="flex justify-between py-3 border-b">
-                        <span className="text-muted-foreground">Guests</span>
-                        <span className="font-medium text-foreground">{bookingDetails.guests} Guests</span>
-                      </div>
-                      {bookingDetails.includesGolf && (
-                        <div className="flex justify-between py-3 border-b">
-                          <span className="text-muted-foreground">Golf Rounds</span>
-                          <span className="font-medium text-accent">Included</span>
-                        </div>
-                      )}
-                      <div className="flex justify-between py-3">
-                        <span className="text-lg font-bold text-foreground">Total Amount</span>
-                        <span className="text-lg font-bold text-accent">${bookingDetails.totalPrice}</span>
-                      </div>
+                    ))}
+                    <div className="bc-row" style={{ marginTop: '8px', paddingTop: '16px', borderTop: '1px solid rgba(26,31,27,0.12)', borderBottom: 'none' }}>
+                      <span className="bc-row-label--total">Total Amount</span>
+                      <span className="bc-row-value--total">${bookingDetails.totalPrice}</span>
                     </div>
                   </div>
+                </div>
 
-                  {/* Guest Information */}
+                {/* Guest information */}
+                <div className="bc-card bc-card--dark">
+                  <div className="bc-card-head">
+                    <div className="bc-card-icon bc-card-icon--light"><Users size={16} strokeWidth={1.5} /></div>
+                    <div className="bc-card-title">Guest Information</div>
+                  </div>
                   <div>
-                    <h2 className="font-serif text-2xl font-bold text-foreground mb-6 flex items-center gap-2">
-                      <Users className="w-6 h-6 text-accent" />
-                      Guest Information
-                    </h2>
-                    
-                    <div className="space-y-4">
-                      <div className="flex items-center gap-3">
-                        <div className="w-10 h-10 bg-accent/10 rounded-full flex items-center justify-center">
-                          <Users className="w-5 h-5 text-accent" />
-                        </div>
+                    {[
+                      {
+                        icon: <Users size={14} strokeWidth={1.5} />,
+                        value: `${bookingDetails.guestInfo.firstName} ${bookingDetails.guestInfo.lastName}`,
+                        sub: 'Primary Guest',
+                        href: null,
+                      },
+                      {
+                        icon: <Mail size={14} strokeWidth={1.5} />,
+                        value: bookingDetails.guestInfo.email,
+                        sub: 'Email Address',
+                        href: `mailto:${bookingDetails.guestInfo.email}`,
+                      },
+                      {
+                        icon: <Phone size={14} strokeWidth={1.5} />,
+                        value: bookingDetails.guestInfo.phone,
+                        sub: 'Phone Number',
+                        href: `tel:${bookingDetails.guestInfo.phone}`,
+                      },
+                    ].map((item) => (
+                      <div key={item.sub} className="bc-guest-row">
+                        <div className="bc-guest-icon">{item.icon}</div>
                         <div>
-                          <p className="font-medium text-foreground">
-                            {bookingDetails.guestInfo.firstName} {bookingDetails.guestInfo.lastName}
-                          </p>
-                          <p className="text-sm text-muted-foreground">Primary Guest</p>
+                          <div className="bc-guest-name" style={{ color: '#f9f6f1' }}>{item.value}</div>
+                          <div className="bc-guest-sub">{item.sub}</div>
                         </div>
                       </div>
-                      
-                      <div className="flex items-center gap-3">
-                        <div className="w-10 h-10 bg-accent/10 rounded-full flex items-center justify-center">
-                          <Mail className="w-5 h-5 text-accent" />
-                        </div>
-                        <div>
-                          <p className="font-medium text-foreground">{bookingDetails.guestInfo.email}</p>
-                          <p className="text-sm text-muted-foreground">Email</p>
-                        </div>
-                      </div>
-                      
-                      <div className="flex items-center gap-3">
-                        <div className="w-10 h-10 bg-accent/10 rounded-full flex items-center justify-center">
-                          <Phone className="w-5 h-5 text-accent" />
-                        </div>
-                        <div>
-                          <p className="font-medium text-foreground">{bookingDetails.guestInfo.phone}</p>
-                          <p className="text-sm text-muted-foreground">Phone</p>
-                        </div>
-                      </div>
-                    </div>
+                    ))}
                   </div>
                 </div>
+              </div>
 
-                {/* Important Information */}
-                <div className="mt-8 p-6 bg-secondary rounded-lg">
-                  <h3 className="font-serif text-lg font-bold text-foreground mb-4">
-                    Important Information
-                  </h3>
-                  <ul className="space-y-2 text-sm text-foreground/80">
-                    <li className="flex items-start gap-2">
-                      <Check className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
-                      <span>Check-in time is 2:00 PM, Check-out time is 11:00 AM</span>
+              {/* Important information */}
+              <div className="bc-info-strip">
+                <div className="bc-info-head">Important Information</div>
+                <ul className="bc-info-list">
+                  {[
+                    'Check-in from 2:00 PM · Check-out by 11:00 AM',
+                    'Free cancellation up to 24 hours before arrival',
+                    'Confirmation email sent to your registered address',
+                    'For changes contact us at +256 746 077 473',
+                  ].map((item) => (
+                    <li key={item} className="bc-info-item">
+                      <span className="bc-info-dot" />
+                      {item}
                     </li>
-                    <li className="flex items-start gap-2">
-                      <Check className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
-                      <span>Free cancellation up to 24 hours before check-in</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <Check className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
-                      <span>Confirmation email has been sent to your registered email</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <Check className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
-                      <span>For any changes, please contact us at +256 746 077 473</span>
-                    </li>
-                  </ul>
-                </div>
+                  ))}
+                </ul>
+              </div>
 
-                {/* Action Buttons */}
-                <div className="mt-8 flex flex-col sm:flex-row gap-4">
-                  <Link
-                    href="/"
-                    className="flex-1 flex items-center justify-center bg-accent hover:bg-accent/90 text-accent-foreground px-6 py-3 rounded-lg font-semibold transition-colors"
-                  >
-                    Return to Homepage
-                  </Link>
-                  <a
-                    href="tel:+256746077473"
-                    className="flex-1 flex items-center justify-center border-2 border-accent text-accent hover:bg-accent hover:text-accent-foreground px-6 py-3 rounded-lg font-semibold transition-colors"
-                  >
-                    <Phone className="w-5 h-5 mr-2" />
-                    Contact Us
-                  </a>
+              {/* Action buttons */}
+              <div className="bc-actions">
+                <Link href="/" className="bc-btn-primary">
+                  Return to Homepage
+                  <svg width="13" height="13" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                  </svg>
+                </Link>
+                <a href="tel:+256746077473" className="bc-btn-outline">
+                  <Phone size={14} strokeWidth={1.5} />
+                  Contact Us
+                </a>
+              </div>
+
+            </div>
+          </section>
+
+          {/* ─── What's next ────────────────────────── */}
+          <section className="bc-next">
+            <div className="bc-next-inner">
+              <div className="bc-next-header">
+                <div className="bc-eyebrow" style={{ color: 'rgba(184,148,90,0.85)', justifyContent: 'center' }}>
+                  Prepare for Your Stay
                 </div>
+                <h2 className="bc-next-h2">What's <em>Next?</em></h2>
+                <div className="bc-next-rule" />
+              </div>
+
+              <div className="bc-next-grid">
+                {[
+                  {
+                    icon: <MapPin size={18} strokeWidth={1.5} />,
+                    title: 'Plan Your Journey',
+                    desc: 'Find directions and plan your travel to Mt. Rwenzori Golf Resort & Spa in Kasese, Uganda.',
+                  },
+                  {
+                    icon: <Calendar size={18} strokeWidth={1.5} />,
+                    title: 'Explore Activities',
+                    desc: 'Discover our championship golf course, spa services, and the surrounding mountain attractions.',
+                  },
+                  {
+                    icon: <Shield size={18} strokeWidth={1.5} />,
+                    title: 'Travel Insurance',
+                    desc: 'Consider travel insurance for a completely worry-free mountain vacation experience.',
+                  },
+                ].map((card) => (
+                  <div key={card.title} className="bc-next-card">
+                    <div className="bc-next-icon">{card.icon}</div>
+                    <div className="bc-next-title">{card.title}</div>
+                    <p className="bc-next-desc">{card.desc}</p>
+                  </div>
+                ))}
               </div>
             </div>
-          </div>
-        </section>
+          </section>
 
-        {/* Next Steps */}
-        <section className="py-16 md:py-24 bg-white">
-          <div className="max-w-4xl mx-auto px-4 md:px-6">
-            <h2 className="font-serif text-3xl font-bold text-foreground mb-8 text-center">
-              What's Next?
-            </h2>
-            
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <div className="text-center p-6 bg-secondary rounded-lg">
-                <MapPin className="w-12 h-12 text-accent mx-auto mb-4" />
-                <h3 className="font-serif text-xl font-bold text-foreground mb-2">
-                  Plan Your Journey
-                </h3>
-                <p className="text-muted-foreground text-sm">
-                  Find directions and plan your travel to Mt. Rwenzori Golf Resort & Spa.
-                </p>
-              </div>
-              
-              <div className="text-center p-6 bg-secondary rounded-lg">
-                <Calendar className="w-12 h-12 text-accent mx-auto mb-4" />
-                <h3 className="font-serif text-xl font-bold text-foreground mb-2">
-                  Explore Activities
-                </h3>
-                <p className="text-muted-foreground text-sm">
-                  Discover our golf course, spa services, and local attractions.
-                </p>
-              </div>
-              
-              <div className="text-center p-6 bg-secondary rounded-lg">
-                <Shield className="w-12 h-12 text-accent mx-auto mb-4" />
-                <h3 className="font-serif text-xl font-bold text-foreground mb-2">
-                  Travel Insurance
-                </h3>
-                <p className="text-muted-foreground text-sm">
-                  Consider travel insurance for a worry-free vacation experience.
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-      </main>
-      <Footer />
+        </main>
+        <Footer />
+      </div>
     </>
   )
 }
