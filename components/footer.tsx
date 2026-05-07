@@ -30,7 +30,7 @@ export function Footer() {
       label: 'Facebook',
     },
     { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
-    { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
+    { href: 'https://x.com/home', icon: Twitter, label: 'X' },
     { href: 'https://tiktok.com/@mtrwenzori', icon: Music, label: 'TikTok' },
   ];
 
@@ -491,11 +491,11 @@ export function Footer() {
                 </div>
                 <span>+256 746 077 473</span>
               </a>
-              <a href="mailto:info@mtrwenzori.com" className="ftr-contact-item">
+              <a href="mailto:mtrwenzorigolfresortspa@gmail.com" className="ftr-contact-item">
                 <div className="ftr-contact-icon">
                   <Mail size={13} />
                 </div>
-                <span>info@mtrwenzori.com</span>
+                <span>mtrwenzorigolfresortspa@gmail.com</span>
               </a>
               <div className="ftr-contact-item">
                 <div className="ftr-contact-icon">
