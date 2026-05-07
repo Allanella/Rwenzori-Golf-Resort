@@ -38,10 +38,10 @@ export function BookingCTA() {
             <h3 className="font-serif text-2xl font-bold">Email Us</h3>
             <p className="text-sm opacity-90 mb-4">Send us your inquiries</p>
             <a
-              href="mailto:info@mtrwenzori.com"
+              href="mailto:mtrwenzorigolfresortspa@gmail.com"
               className="bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors"
             >
-              info@mtrwenzori.com
+              mtrwenzorigolfresortspa@gmail.com
             </a>
           </div>
         </div>
