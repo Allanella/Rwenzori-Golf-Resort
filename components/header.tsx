@@ -45,7 +45,7 @@ export function Header() {
       label: 'Facebook',
     },
     { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
-    { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
+    { href: 'https://x.com/home', icon: Twitter, label: 'X' },
     { href: 'https://tiktok.com/@mtrwenzori', icon: Music, label: 'TikTok' },
   ];
 
