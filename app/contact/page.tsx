@@ -41,7 +41,6 @@ const faqs = [
 export default function ContactPage() {
   return (
     <>
-      {}`
       <style>{`
         .ct-page {
           font-family: var(--font-sans, 'DM Sans', sans-serif);
@@ -176,6 +175,7 @@ export default function ContactPage() {
           color: #f9f6f1;
           text-decoration: none;
           transition: color 0.25s ease;
+          display: block;
         }
         .ct-info-link:hover { color: #d4aa72; }
 
@@ -372,7 +372,6 @@ export default function ContactPage() {
         }
       `}</style>
 
-      {}
       <div className="ct-page">
         <Header />
         <main>
@@ -382,7 +381,6 @@ export default function ContactPage() {
             image="/images/_DSC9736.png"
           />
 
-          {}
           {/* ─── Contact info ───────────────────────── */}
           <section className="ct-info">
             <div className="ct-info-inner">
@@ -398,8 +396,10 @@ export default function ContactPage() {
                 <div className="ct-info-card">
                   <div className="ct-info-icon"><Phone size={16} strokeWidth={1.5} /></div>
                   <div className="ct-info-label">Phone</div>
-                  <div className="ct-info-value">
+                  <div className="ct-info-value" style={{ fontSize: '15px', lineHeight: '1.4' }}>
                     <a href="tel:+256746077473" className="ct-info-link">+256 746 077 473</a>
+                    <span style={{ display: 'block', fontSize: '11px', color: 'rgba(249,246,241,0.3)', margin: '4px 0' }}>or</span>
+                    <a href="tel:+256774751727" className="ct-info-link">+256 774 751 727</a>
                   </div>
                   <div className="ct-info-sub">Available 24 / 7</div>
                 </div>
@@ -426,7 +426,6 @@ export default function ContactPage() {
             </div>
           </section>
 
-          {}
           {/* ─── Form + Map ─────────────────────────── */}
           <section className="ct-main">
             <div className="ct-main-inner">
@@ -480,7 +479,6 @@ export default function ContactPage() {
             </div>
           </section>
 
-          {}
           {/* ─── Getting there ──────────────────────── */}
           <section className="ct-travel">
             <div className="ct-travel-inner">
@@ -532,7 +530,6 @@ export default function ContactPage() {
             </div>
           </section>
 
-          {}
           {/* ─── FAQ ────────────────────────────────── */}
           <section className="ct-faq">
             <div className="ct-faq-inner">

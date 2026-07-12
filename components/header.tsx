@@ -497,7 +497,7 @@ export function Header() {
       <div className={`hdr-topbar${scrolled ? ' scrolled' : ''}`}>
         <div className="hdr-topbar-left">
           <Phone size={12} />
-          +256 746 077 473 &nbsp;·&nbsp; Kasese, Uganda
+          +256 746 077 473 / +256 774 751 727 &nbsp;·&nbsp; Kasese, Uganda
         </div>
         <div className="hdr-topbar-right">
           {socialLinks.map((s) => (

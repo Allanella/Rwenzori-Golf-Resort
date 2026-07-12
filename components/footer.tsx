@@ -36,6 +36,7 @@ export function Footer() {
 
   return (
     <>
+      {}
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:opsz,wght@9..40,300;9..40,400&display=swap');
 
@@ -397,6 +398,7 @@ export function Footer() {
         .ftr-legal-link:hover { color: rgba(249,246,241,0.6); }
       `}</style>
 
+      {}
       <footer className="ftr">
         {/* ─── CTA strip ──────────────────────────── */}
         <div className="ftr-cta">
@@ -475,6 +477,7 @@ export function Footer() {
             </div>
           </div>
 
+          {}
           {/* Contact */}
           <div>
             <div className="ftr-col-head">Contact Us</div>
@@ -485,12 +488,23 @@ export function Footer() {
                 </div>
                 <span>Kasese, Rwenzori Mountain Region, Uganda</span>
               </div>
+              
+              {/* Primary phone */}
               <a href="tel:+256746077473" className="ftr-contact-item">
                 <div className="ftr-contact-icon">
                   <Phone size={13} />
                 </div>
                 <span>+256 746 077 473</span>
               </a>
+
+              {/* Secondary phone */}
+              <a href="tel:+256774751727" className="ftr-contact-item">
+                <div className="ftr-contact-icon">
+                  <Phone size={13} />
+                </div>
+                <span>+256 774 751 727</span>
+              </a>
+
               <a href="mailto:mtrwenzorigolfresortspa@gmail.com" className="ftr-contact-item">
                 <div className="ftr-contact-icon">
                   <Mail size={13} />
