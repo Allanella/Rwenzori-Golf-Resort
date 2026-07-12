@@ -84,17 +84,11 @@ export const metadata: Metadata = {
     },
   },
 
+  /* Pointing all browser tab icons, shortcut icons, and mobile bookmark pins directly to your logo.JPG */
   icons: {
-    icon: [
-      { url: '/icon-light-32x32.png', sizes: '32x32', media: '(prefers-color-scheme: light)' },
-      { url: '/icon-dark-32x32.png',  sizes: '32x32', media: '(prefers-color-scheme: dark)'  },
-      { url: '/icon.svg',             type: 'image/svg+xml'                                   },
-      { url: '/favicon.ico',          sizes: 'any'                                            },
-    ],
-    apple: [
-      { url: '/apple-icon.png', sizes: '180x180' },
-    ],
-    shortcut: '/favicon.ico',
+    icon: '/logo.JPG',
+    shortcut: '/logo.JPG',
+    apple: '/logo.JPG',
   },
 
   manifest: '/site.webmanifest',
