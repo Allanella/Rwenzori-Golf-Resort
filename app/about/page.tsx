@@ -40,34 +40,28 @@ const values = [
 
 const timeline = [
   {
-    year: '2010',
-    title: 'The Beginning',
+    year: '2023',
+    title: 'Infrastructure & Tech Upgrades',
     description:
-      'Mt. Rwenzori Golf Resort & Spa was founded with a vision to create a luxury destination in the heart of the mountains.',
-  },
-  {
-    year: '2014',
-    title: 'First Expansion',
-    description:
-      'Completed our championship 9-hole golf course, attracting golf enthusiasts from around the world.',
-  },
-  {
-    year: '2017',
-    title: 'Spa Excellence',
-    description:
-      'Opened our world-class spa facility, adding wellness services to complement our resort offerings.',
-  },
-  {
-    year: '2021',
-    title: 'Modern Upgrades',
-    description:
-      'Invested in modern technology, including high-speed WiFi and premium amenities throughout the resort.',
+      'Invested heavily in eco-resort infrastructure, bringing high-speed 5G network arrays and modern, sustainable premium utilities throughout all cottages and facilities.',
   },
   {
     year: '2024',
-    title: 'New Era',
+    title: 'Banqueting & Conference Growth',
     description:
-      'Launched our enhanced online booking system and expanded event hosting capabilities.',
+      'Expanded our hosting capacity with the launch of our modern 400-guest Conference Hall and premium 250-guest indoor wedding venues to accommodate landmark events.',
+  },
+  {
+    year: '2025',
+    title: 'Eco-Tourism & Wilderness Alliances',
+    description:
+      'Formalized premium excursion packages, offering curated routes to Queen Elizabeth National Park, Semuliki, and Gorilla tracking in Kibale National Game Park.',
+  },
+  {
+    year: '2026',
+    title: 'Championship Golf Redesign',
+    description:
+      'Unveiled updates to our signature 9-hole course, spotlighting challenging holes and water-protected greens naturally bordered by the crossing waters of River Peripa and River Igasa.',
   },
 ];
 
@@ -77,8 +71,8 @@ export default function AboutPage() {
       <Header />
       <main>
         <HeroSection
-          title="About Mt. Rwenzori"
-          subtitle="A legacy of luxury, excellence, and mountain hospitality"
+          title="About Mt. Rwenzori Golf Resort & Spa"
+          subtitle="A legacy of luxury, excellence, and mountain views"
           image="/images/_DSC9770.jpg"
         />
 
@@ -98,18 +92,20 @@ export default function AboutPage() {
                 <p className="text-foreground/80 mb-4 leading-relaxed">
                   Mt. Rwenzori Golf Resort & Spa was born from a passion for mountain hospitality
                   and a belief that travelers deserve more than just accommodation—they deserve an
-                  experience.
+                  immersive experience.
                 </p>
+                {}
                 <p className="text-foreground/80 mb-4 leading-relaxed">
-                  Nestled at the base of the majestic Mt. Rwenzori, our resort has been carefully
-                  designed to harmonize with nature while offering world-class amenities and
-                  services. For over a decade, we've been welcoming guests from around the globe who
-                  seek the perfect balance of adventure, relaxation, and luxury.
+                  Nestled at the base of the majestic Mt. Rwenzori, our resort is home to a spectacular 
+                  <strong> 9-hole golf course</strong> featuring uniquely challenging holes. Designed to work 
+                  harmoniously with the landscape, most of our pristine greens are dramatically surrounded by 
+                  water, with two scenic rivers—<strong>River Peripa</strong> and <strong>River Igasa</strong>—weaving 
+                  directly through the course to create a world-class playing experience.
                 </p>
                 <p className="text-foreground/80 leading-relaxed">
                   Every member of our team is dedicated to creating unforgettable memories, whether
-                  you&apos;re enjoying a round of golf, a spa treatment, or simply savoring the
-                  mountain views from our terrace.
+                  you&apos;re navigating our river-guarded fairways, trekking the mountain peaks, or 
+                  simply savoring the vistas from our terrace.
                 </p>
               </div>
             </div>
@@ -138,7 +134,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Core Values */}
+        {/* Core Values Section */}
         <section className="py-16 md:py-24 bg-white">
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <div className="text-center mb-12">
@@ -167,15 +163,15 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Timeline */}
+        {/* Timeline Section */}
         <section className="py-16 md:py-24 bg-background">
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <div className="text-center mb-12">
               <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-4">
-                Our Journey
+                Our Recent Journey
               </h2>
               <p className="text-lg text-muted-foreground">
-                Key milestones in our resort&apos;s history
+                Key milestones from the last four years
               </p>
             </div>
 
@@ -243,7 +239,7 @@ export default function AboutPage() {
               </div>
 
               <p className="text-foreground/80 text-center mt-8 leading-relaxed">
-                From our management team to our housekeeping staff, every member of Mt. Rwenzori is
+                From our management team to our greenkeepers and caddies, every member of Mt. Rwenzori is
                 committed to ensuring your stay is exceptional. Our team undergoes continuous
                 training to maintain the highest standards of service.
               </p>
@@ -258,9 +254,8 @@ export default function AboutPage() {
               Ready to Experience Mt. Rwenzori?
             </h2>
             <p className="text-lg opacity-90 mb-8 max-w-2xl mx-auto">
-              Join us for an unforgettable mountain retreat. Whether you&apos;re a golf enthusiast,
-              wellness seeker, or simply looking for a peaceful escape, we&apos;re ready to welcome
-              you.
+              Join us for an unforgettable mountain retreat. Whether you&apos;re looking to challenge yourself on
+              our river-spanning greens, explore wild safaris, or simply enjoy a peaceful escape, we&apos;re ready to welcome you.
             </p>
             <button className="bg-accent text-accent-foreground px-8 py-3 rounded-lg font-semibold hover:bg-accent/90 transition-colors">
               Book Your Stay Today

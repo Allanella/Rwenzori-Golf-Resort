@@ -8,7 +8,7 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Contact Us | Mt. Rwenzori Golf Resort & Spa',
-  description: 'Get in touch with Mt. Rwenzori Golf Resort & Spa. Find our contact details, location, and directions to Uganda\'s finest mountain retreat.',
+  description: "Get in touch with Mt. Rwenzori Golf Resort & Spa. Find our contact details, location, and directions to Uganda's finest mountain retreat.",
 };
 
 const faqs = [
@@ -41,6 +41,7 @@ const faqs = [
 export default function ContactPage() {
   return (
     <>
+      {}`
       <style>{`
         .ct-page {
           font-family: var(--font-sans, 'DM Sans', sans-serif);
@@ -371,6 +372,7 @@ export default function ContactPage() {
         }
       `}</style>
 
+      {}
       <div className="ct-page">
         <Header />
         <main>
@@ -380,6 +382,7 @@ export default function ContactPage() {
             image="/images/_DSC9736.png"
           />
 
+          {}
           {/* ─── Contact info ───────────────────────── */}
           <section className="ct-info">
             <div className="ct-info-inner">
@@ -388,8 +391,8 @@ export default function ContactPage() {
                 <div className="ct-info-card">
                   <div className="ct-info-icon"><MapPin size={16} strokeWidth={1.5} /></div>
                   <div className="ct-info-label">Address</div>
-                  <div className="ct-info-value">Kasese, Rwenzori Mountain Region<br />Uganda</div>
-                  <div className="ct-info-sub">Near Mt. Rwenzori National Park</div>
+                  <div className="ct-info-value">4km off Fort Portal – Kasese Road<br />Rwenzori Region, Uganda</div>
+                  <div className="ct-info-sub">20 minutes drive from Fort Portal City</div>
                 </div>
 
                 <div className="ct-info-card">
@@ -423,11 +426,12 @@ export default function ContactPage() {
             </div>
           </section>
 
+          {}
           {/* ─── Form + Map ─────────────────────────── */}
           <section className="ct-main">
             <div className="ct-main-inner">
 
-              {/* Contact form (existing component) */}
+              {/* Contact form */}
               <div>
                 <div className="ct-eyebrow">Send a Message</div>
                 <h2 className="ct-h2">
@@ -454,7 +458,7 @@ export default function ContactPage() {
                   />
                   <div className="ct-map-overlay">
                     <div className="ct-map-title">Mt. Rwenzori Golf Resort & Spa</div>
-                    <p className="ct-map-sub">Kasese · Rwenzori Mountain Region · Uganda</p>
+                    <p className="ct-map-sub">4km off Fort Portal – Kasese Road · 20 mins from Fort Portal City</p>
                     <a
                       href="https://maps.google.com/?q=Mt+Rwenzori+Golf+Resort+Kasese+Uganda"
                       target="_blank"
@@ -469,13 +473,14 @@ export default function ContactPage() {
                   </div>
                 </div>
                 <p className="ct-map-note">
-                  Search <strong>"Mt. Rwenzori Golf Resort &amp; Spa"</strong> on Google Maps for turn-by-turn directions from your location.
+                  Search <strong>&quot;Mt. Rwenzori Golf Resort &amp; Spa&quot;</strong> on Google Maps for turn-by-turn directions from your location.
                 </p>
               </div>
 
             </div>
           </section>
 
+          {}
           {/* ─── Getting there ──────────────────────── */}
           <section className="ct-travel">
             <div className="ct-travel-inner">
@@ -491,7 +496,7 @@ export default function ContactPage() {
                 {[
                   {
                     title: 'By Air',
-                    desc: 'Fly into Entebbe International Airport, approximately 5 hours from Kasese. We offer arranged airport pickup and private transfer services on request.',
+                    desc: 'Fly into Entebbe International Airport or land directly at the Kasese Airstrip. We offer arranged airport pickups and private transfers directly to the resort.',
                     svg: (
                       <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
@@ -500,7 +505,7 @@ export default function ContactPage() {
                   },
                   {
                     title: 'By Road',
-                    desc: 'Drive from Kampala via the Masaka–Mbarara–Kasese highway (~5–6 hrs). Our team provides GPS coordinates and a detailed route guide upon booking.',
+                    desc: 'Easily accessible via Kampala–Fort Portal highway. Turn off just 4km before reaching Fort Portal on the main Fort Portal–Kasese road. We are only a brief, 20-minute drive from Fort Portal City.',
                     svg: (
                       <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M9 6.75V15m6-6v8.25m.503 3.498l4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 00-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0z" />
@@ -509,7 +514,7 @@ export default function ContactPage() {
                   },
                   {
                     title: 'Private Transfer',
-                    desc: 'We can arrange a comfortable private vehicle from Entebbe, Kampala, or Fort Portal. Luxury 4WDs available for the mountain approach road.',
+                    desc: 'We arrange private luxury 4x4 vehicles from Kampala, Entebbe, or Fort Portal City center directly to our gates 4km off the main Kasese highway.',
                     svg: (
                       <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 18.75a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m3 0h6m-9 0H3.375a1.125 1.125 0 01-1.125-1.125V14.25m17.25 4.5a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m3 0h1.125c.621 0 1.129-.504 1.09-1.124a17.902 17.902 0 00-3.213-9.193 2.056 2.056 0 00-1.58-.86H14.25M16.5 18.75h-2.25m0-11.177v-.958c0-.568-.422-1.048-.987-1.106a48.554 48.554 0 00-10.026 0 1.106 1.106 0 00-.987 1.106v7.635m12-6.677v6.677m0 4.5v-4.5m0 0h-12" />
@@ -527,6 +532,7 @@ export default function ContactPage() {
             </div>
           </section>
 
+          {}
           {/* ─── FAQ ────────────────────────────────── */}
           <section className="ct-faq">
             <div className="ct-faq-inner">
