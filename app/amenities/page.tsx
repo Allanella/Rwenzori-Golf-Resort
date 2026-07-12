@@ -3,22 +3,64 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { HeroSection } from '@/components/hero-section';
 import { BookingCTA } from '@/components/booking-cta';
-import { Wifi, Flame, Wine, Users } from 'lucide-react';
+import { Wifi, Flame, Wine, Users, Compass, Tent, Utensils, Trophy } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Amenities | Mt. Rwenzori Golf Resort & Spa',
+  title: 'Experiences & Amenities | Mt. Rwenzori Golf Resort & Spa',
   description:
-    'Discover world-class amenities including firepit, terrace, WiFi, and event facilities.',
+    'Discover world-class activities, from gorilla tracking and Rwenzori hikes to traditional cottages, fine dining, and grand celebrations.',
 };
 
 const amenityCategories = [
   {
+    icon: <Tent size={32} />,
+    title: 'Traditional African Cottages & Campsite',
+    description:
+      'Immerse yourself in authentic heritage with our grass-thatched cottages built of mud and wattle in classic African style. Step inside to discover striking, hand-crafted master woodwork. For outdoor enthusiasts, our designated scenic campsite offers cozy mountain-side stargazing.',
+    features: [
+      'African-style grass-thatched cottages',
+      'Authentic mud & wattle construction with beautiful woodwork interior',
+      'Fully equipped, secure wilderness campsite',
+      'Stunning views of the foothills',
+      'Cozy private seating spaces',
+    ],
+    image: 'http://googleusercontent.com/image_collection/image_retrieval/16239877178433762773_0',
+  },
+  {
+    icon: <Compass size={32} />,
+    title: 'Guided Safaris & Wilderness Excursions',
+    description:
+      'Our resort is the perfect gateway to Western Uganda’s natural marvels. Embark on rugged climbs, track rare primates, or experience natural therapeutic thermal waters just a short distance from your cottage door.',
+    features: [
+      'Breathtaking guided hiking trips up Mt. Rwenzori',
+      'Gorilla tracking excursions at Kibale National Game Park',
+      'Restorative day-trips to Rwagimba Hot Springs',
+      'Just a 1-hour scenic drive to Semuliki Hot Springs',
+      'Only a 40-minute drive to Queen Elizabeth National Game Park',
+    ],
+    image: '/images/mountain-view.jpg',
+  },
+  {
+    icon: <Utensils size={32} />,
+    title: 'Organic Farm-to-Table & Rivers',
+    description:
+      'Experience authentic country life at our hotel farm. Walk alongside grazing dairy cattle, try your hand at morning milking, and indulge in seasonal harvested foods freshly prepared by our culinary team. Complete your adventure with an invigorating cold splash in River Peripa.',
+    features: [
+      'Interact with grazing and milking cattle on our hotel farm',
+      'Delicious local & global cuisine made from freshly harvested organic foods',
+      'Invigorating cold showers in the pristine River Peripa',
+      'Guided nature walks along scenic trails around the hotel',
+      'Full Restaurant & Bar serving curated cocktails and local brews',
+    ],
+    image: 'http://googleusercontent.com/image_collection/image_retrieval/16082155317322123758_0',
+  },
+  {
     icon: <Flame size={32} />,
     title: 'Cozy Firepit',
     description:
-      'Gather around our outdoor firepit for intimate evenings under the stars. Perfect for roasting marshmallows, storytelling, and creating unforgettable memories with loved ones.',
+      'Gather around our outdoor firepit for intimate evenings under the stars. Perfect for roasting marshmallows, storytelling, and creating unforgettable memories with loved ones after a long day of tracking and hiking.',
     features: [
-      'Seating for up to 20 guests',
+      'Seating for up to 40 guests',
       'Complimentary wood and kindling',
       'Roasting equipment provided',
       'Perfect stargazing spot',
@@ -34,7 +76,7 @@ const amenityCategories = [
     features: [
       'Panoramic mountain views',
       'Weather-protected seating',
-      'Fine dining restaurant',
+      'Fine dining restaurant access',
       'Bar service available',
       'Event hosting capabilities',
     ],
@@ -56,15 +98,15 @@ const amenityCategories = [
   },
   {
     icon: <Users size={32} />,
-    title: 'Event Hosting',
+    title: 'Grand Celebrations & Events',
     description:
-      'Host your special events at Mt. Rwenzori. From intimate gatherings to grand celebrations, our venues and dedicated team ensure an unforgettable experience.',
+      'Host your grand milestones at Mt. Rwenzori Golf Resort & Spa. From beautiful cultural introductions to magnificent corporate banquets, our versatile spaces and culinary experts ensure perfection.',
     features: [
-      'Flexible indoor/outdoor spaces',
-      'Catering services included',
-      'Event planning assistance',
-      'Audio/visual equipment available',
-      'Accommodation packages for guests',
+      'Grand Conference Hall accommodating up to 400 guests',
+      'Indoor Wedding Venue layout for up to 250 guests',
+      'Lively traditional cultural dance performances arranged on order',
+      'Customized corporate team-building and retreat packages',
+      'Charming honeymoon itineraries in cozy private settings',
     ],
     image: '/images/terrace.jpg',
   },
@@ -72,24 +114,24 @@ const amenityCategories = [
 
 const eventTypes = [
   {
-    name: 'Weddings',
-    capacity: '50-200 guests',
-    description: 'Create your dream wedding surrounded by majestic mountains and natural beauty',
+    name: 'Weddings & Introductions',
+    capacity: 'Up to 250 guests (Indoor)',
+    description: 'Celebrate your love with grand indoor receptions or custom-crafted traditional cultural introductions.',
   },
   {
-    name: 'Corporate Events',
-    capacity: '30-150 guests',
-    description: 'Host your company retreat, conference, or team building event',
+    name: 'Conferences & retreats',
+    capacity: 'Up to 400 guests',
+    description: 'Our state-of-the-art conference hall caters to executive assemblies and large scale summits.',
   },
   {
-    name: 'Anniversaries',
-    capacity: '20-100 guests',
-    description: 'Celebrate milestones with intimate gatherings in a romantic setting',
+    name: 'Staff Development Retreats',
+    capacity: 'Flexible packages',
+    description: 'Re-energize your corporate team with custom activities, sports, and structural development courses.',
   },
   {
-    name: 'Family Reunions',
-    capacity: '50-200 guests',
-    description: 'Bring families together for memorable mountain experiences',
+    name: 'Romantic Honeymoons',
+    capacity: 'Designed for couples',
+    description: 'Cherish secluded walks, romantic terrace dinners, and exclusive excursions in a majestic mountain setup.',
   },
 ];
 
@@ -99,20 +141,20 @@ export default function AmenitiesPage() {
       <Header />
       <main>
         <HeroSection
-          title="World-Class Amenities"
-          subtitle="Experience luxury and comfort at every turn"
+          title="Unforgettable Experiences & Amenities"
+          subtitle="Where raw Ugandan adventure meets luxurious sanctuary"
           image="/images/_DSC9766.jpg"
         />
 
-        {/* Amenities Showcase */}
+        {/* Experiences Showcase */}
         <section className="py-16 md:py-24 bg-background">
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <div className="text-center mb-12">
               <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-4">
-                Premium Facilities
+                What We Offer
               </h2>
               <p className="text-lg text-muted-foreground">
-                Discover everything we offer to enhance your stay
+                Tailor-made adventures, premium comfort, and memorable highlights to cherish.
               </p>
             </div>
 
@@ -143,7 +185,7 @@ export default function AmenitiesPage() {
                       </h3>
                     </div>
                     <p className="text-foreground/80 mb-6 leading-relaxed">{amenity.description}</p>
-                    <h4 className="font-semibold text-foreground mb-3">Key Features:</h4>
+                    <h4 className="font-semibold text-foreground mb-3">Key Highlights:</h4>
                     <ul className="space-y-2 mb-6">
                       {amenity.features.map((feature) => (
                         <li key={feature} className="flex gap-3 items-start text-foreground/80">
@@ -164,10 +206,10 @@ export default function AmenitiesPage() {
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <div className="text-center mb-12">
               <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-4">
-                Event Hosting
+                Grand Celebrations & Hosting
               </h2>
               <p className="text-lg text-muted-foreground">
-                Make your special occasion unforgettable
+                Make your special occasion unforgettable with our custom venues and packages
               </p>
             </div>
 
@@ -175,13 +217,15 @@ export default function AmenitiesPage() {
               {eventTypes.map((event) => (
                 <div
                   key={event.name}
-                  className="bg-background rounded-lg p-6 text-center shadow-md"
+                  className="bg-background rounded-lg p-6 text-center shadow-md flex flex-col justify-between"
                 >
-                  <h3 className="font-serif text-xl font-bold text-foreground mb-2">
-                    {event.name}
-                  </h3>
-                  <p className="text-accent font-semibold text-sm mb-3">{event.capacity}</p>
-                  <p className="text-foreground/80 text-sm leading-relaxed">{event.description}</p>
+                  <div>
+                    <h3 className="font-serif text-xl font-bold text-foreground mb-2">
+                      {event.name}
+                    </h3>
+                    <p className="text-accent font-semibold text-sm mb-3">{event.capacity}</p>
+                    <p className="text-foreground/80 text-sm leading-relaxed">{event.description}</p>
+                  </div>
                 </div>
               ))}
             </div>
@@ -193,18 +237,14 @@ export default function AmenitiesPage() {
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {[
-                  'Complete venue setup and decoration',
-                  'Professional catering and bar service',
-                  'On-site event coordinator',
-                  'Audio/visual and lighting equipment',
-                  'Multi-room layout options',
-                  'Guest accommodation packages',
-                  'Photography services available',
-                  'Special dietary accommodations',
-                  'Entertainment recommendations',
-                  'Day-of timeline management',
-                  'Weather contingency planning',
-                  'Post-event cleanup services',
+                  'Sophisticated Grand Conference Hall (fits up to 400 guests)',
+                  'Elegantly designed Indoor Wedding venue (fits up to 250 guests)',
+                  'Lively traditional Cultural Dance performances (arranged on order)',
+                  'Complete venue staging, beautiful floral, and setup styling',
+                  'Professional local and international catering with open bars',
+                  'Staff development retreats with tailored sports and workshops',
+                  'Advanced audio/visual, stage lighting, and professional support',
+                  'Accommodations for your party with specialized honeymoon suites',
                 ].map((service) => (
                   <div key={service} className="flex gap-3 items-start">
                     <span className="text-accent font-bold">✓</span>
@@ -216,12 +256,43 @@ export default function AmenitiesPage() {
           </div>
         </section>
 
-        {/* Additional Amenities */}
+        {/* Additional Recreation & Playgrounds */}
         <section className="py-16 md:py-24 bg-background">
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-12 text-center">
-              More to Explore
+              Recreation & Resort Amenities
             </h2>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+              <div className="bg-white rounded-lg p-6 shadow-md flex items-center gap-6">
+                <div className="text-accent bg-background p-4 rounded-full">
+                  <Trophy size={36} />
+                </div>
+                <div>
+                  <h3 className="font-serif text-xl font-bold text-foreground mb-1">
+                    Football & Netball Pitches
+                  </h3>
+                  <p className="text-foreground/80 text-sm">
+                    Perfect fields for corporate field matches, team matches, active recreation, and energetic family activities.
+                  </p>
+                </div>
+              </div>
+
+              <div className="bg-white rounded-lg p-6 shadow-md flex items-center gap-6">
+                <div className="text-accent bg-background p-4 rounded-full">
+                  <Flame size={36} />
+                </div>
+                <div>
+                  <h3 className="font-serif text-xl font-bold text-foreground mb-1">
+                    Sunset Firepits & Stories
+                  </h3>
+                  <p className="text-foreground/80 text-sm">
+                    Indulge in cozy gatherings, campfire treats, and storytelling after high-altitude Rwenzori tracking excursions.
+                  </p>
+                </div>
+              </div>
+            </div>
+
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
               <div className="bg-white rounded-lg p-6 shadow-md">
                 <img
@@ -257,27 +328,27 @@ export default function AmenitiesPage() {
               {[
                 {
                   title: 'Restaurant & Bar',
-                  description: 'Fine dining with local and international cuisine',
+                  description: 'Fine dining showcasing authentic local specialties and organic harvested farm-to-table meals.',
                 },
                 {
                   title: 'Library Lounge',
-                  description: 'Quiet reading room with extensive book collection',
+                  description: 'A cozy reading room with a great selection of nature books and comfortable seating areas.',
                 },
                 {
                   title: 'Gym & Fitness',
-                  description: 'Fully equipped fitness center with personal training',
+                  description: 'Fully equipped fitness center configured to condition you for demanding Rwenzori tracking.',
                 },
                 {
                   title: 'Game Room',
-                  description: 'Billiards, darts, and board games for entertainment',
+                  description: 'Billiards, board games, and fun challenges to enjoy with your family and retreat colleagues.',
                 },
                 {
                   title: 'Gift Shop',
-                  description: 'Curated selection of local crafts and products',
+                  description: 'Take home beautiful handcrafted memories made by the local mountain community.',
                 },
                 {
                   title: 'Concierge Service',
-                  description: '24/7 assistance with all your resort needs',
+                  description: 'Friendly 24/7 hospitality desk ready to arrange your hot spring excursions and river dips.',
                 },
               ].map((amenity) => (
                 <div

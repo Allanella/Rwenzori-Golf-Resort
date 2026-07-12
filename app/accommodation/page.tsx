@@ -80,7 +80,7 @@ const roomTypes = [
   },
   {
     name: 'Twin Room with Mountain View',
-    price: '$95/night',
+    price: '$70/night',
     image: '/images/_DSC9790.jpg',
     bedType: '2 Twin Beds',
     amenities: [

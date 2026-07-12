@@ -74,7 +74,7 @@ export default function Home() {
       <main>
         <HeroSection
           title="Mt. Rwenzori Golf Resort & Spa"
-          subtitle="A serene mountain retreat offering luxury accommodation, championship golf, and world-class spa services"
+          subtitle="A serene mountain view on the slopes of Mt. Rwenzori with a beautiful challenging nine hole golf course where fresh air meets beauty"
           video="/Sparvideo_preview.mp4"
           image="/images/_DSC9760.jpg"
           ctaText="Explore Our Resort"
