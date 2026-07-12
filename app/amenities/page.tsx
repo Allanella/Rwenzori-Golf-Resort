@@ -24,7 +24,7 @@ const amenityCategories = [
       'Stunning views of the foothills',
       'Cozy private seating spaces',
     ],
-    image: 'http://googleusercontent.com/image_collection/image_retrieval/16239877178433762773_0',
+    image: '/cottage.jpeg', // Directly referencing your uploaded logo/image asset from the public folder
   },
   {
     icon: <Compass size={32} />,
@@ -52,7 +52,8 @@ const amenityCategories = [
       'Guided nature walks along scenic trails around the hotel',
       'Full Restaurant & Bar serving curated cocktails and local brews',
     ],
-    image: 'http://googleusercontent.com/image_collection/image_retrieval/16082155317322123758_0',
+    // A premium high-resolution, rich farm-to-table organic harvest image
+    image: 'https://images.unsplash.com/photo-1595855759920-86582396756a?auto=format&fit=crop&w=1200&q=80',
   },
   {
     icon: <Flame size={32} />,
@@ -201,7 +202,7 @@ export default function AmenitiesPage() {
           </div>
         </section>
 
-        {/* Event Services */}
+        { }
         <section className="py-16 md:py-24 bg-white">
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <div className="text-center mb-12">
@@ -230,7 +231,6 @@ export default function AmenitiesPage() {
               ))}
             </div>
 
-            {/* Event Services Details */}
             <div className="bg-secondary rounded-lg p-8">
               <h3 className="font-serif text-2xl font-bold text-foreground mb-6">
                 Our Event Planning Services Include:
@@ -256,7 +256,7 @@ export default function AmenitiesPage() {
           </div>
         </section>
 
-        {/* Additional Recreation & Playgrounds */}
+        {}
         <section className="py-16 md:py-24 bg-background">
           <div className="max-w-7xl mx-auto px-4 md:px-6">
             <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-12 text-center">
