@@ -1,33 +1,37 @@
-name: Deploy to Client Hosting via FTP
+name: Deploy to cPanel Hosting
 
 on:
   push:
     branches:
-      - master 
+      - master
 
 jobs:
   web-deploy:
     name: Sync to Hosting
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+          cache: 'npm'
 
-      - name: Install Dependencies & Build
-        run: |
-          npm ci
-          npm run build
+      - name: Install Dependencies
+        run: npm ci
 
-      - name: Sync files via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: Build Project
+        env:
+          NODE_OPTIONS: "--max-old-space-size=4096"
+        run: npm run build
+
+      - name: Sync Files via FTP
+        uses: SamKirsch/ftp-deploy-action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./out/ # Use ./dist/ if your project uses Vite/React instead of Next.js static export
-          server-dir: ./
+          local-dir: ./out/
+          server-dir: /public_html/
