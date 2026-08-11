@@ -38,13 +38,13 @@ const golfPackages = [
   {
     name: 'Executive Package',
     description: 'Perfect for a quick round with friends',
-    price: '$99',
+    price: '$15',
     includes: ['18 holes (2 rounds)', 'Cart rental', 'Lunch for two', 'Golf balls'],
   },
   {
     name: 'Championship Package',
     description: 'Complete golf experience with professional amenities',
-    price: '$199',
+    price: '$20',
     includes: [
       '18 holes with professional caddy',
       'Premium golf cart',
@@ -57,7 +57,7 @@ const golfPackages = [
   {
     name: 'Luxury Golf Weekend',
     description: 'Multi-day golf retreat with accommodation',
-    price: '$599/person',
+    price: '$20/person',
     includes: [
       '2 nights accommodation',
       '36 holes with caddy',

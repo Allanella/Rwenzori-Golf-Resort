@@ -3,7 +3,7 @@ name: Deploy to Client Hosting via FTP
 on:
   push:
     branches:
-      - master # Change to 'main' if your primary branch is main
+      - master 
 
 jobs:
   web-deploy:
