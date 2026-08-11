@@ -1,0 +1,388 @@
+1:"$Sreact.fragment"
+2:I[13293,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],"Header"]
+3:I[98924,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],"HeroSection"]
+12:I[33596,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],""]
+15:I[62711,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+:HL["/images/_DSC9758.jpg","image"]
+:HL["/logo.JPG","image"]
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{"title":"About Mt. Rwenzori Golf Resort & Spa","subtitle":"A legacy of luxury, excellence, and mountain views","image":"/images/_DSC9770.jpg"}],["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9758.jpg","alt":"Mt. Rwenzori landscape","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","h2",null,{"className":"font-serif text-4xl font-bold text-foreground mb-4","children":"Our Story"}],["$","p",null,{"className":"text-foreground/80 mb-4 leading-relaxed","children":"Mt. Rwenzori Golf Resort & Spa was born from a passion for mountain hospitality and a belief that travelers deserve more than just accommodation—they deserve an immersive experience."}],["$","p",null,{"className":"text-foreground/80 mb-4 leading-relaxed","children":["Nestled at the base of the majestic Mt. Rwenzori, our resort is home to a spectacular",["$","strong",null,{"children":" 9-hole golf course"}]," featuring uniquely challenging holes. Designed to work harmoniously with the landscape, most of our pristine greens are dramatically surrounded by water, with two scenic rivers—",["$","strong",null,{"children":"River Peripa"}]," and ",["$","strong",null,{"children":"River Igasa"}],"—weaving directly through the course to create a world-class playing experience."]}],["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"Every member of our team is dedicated to creating unforgettable memories, whether you're navigating our river-guarded fairways, trekking the mountain peaks, or simply savoring the vistas from our terrace."}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-8","children":[["$","div",null,{"className":"bg-white rounded-lg p-8 shadow-md","children":[["$","h3",null,{"className":"font-serif text-2xl font-bold text-foreground mb-4","children":"Our Mission"}],["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"To provide an exceptional mountain retreat experience that combines luxury accommodation, premier golf facilities, rejuvenating spa services, and authentic hospitality, while preserving the natural beauty of our environment and supporting the local community."}]]}],["$","div",null,{"className":"bg-primary text-primary-foreground rounded-lg p-8 shadow-md","children":[["$","h3",null,{"className":"font-serif text-2xl font-bold mb-4","children":"Our Vision"}],["$","p",null,{"className":"leading-relaxed","children":"To be recognized as the premier mountain resort destination in the region, setting standards for excellence in hospitality, sustainability, and guest satisfaction while remaining a cherished gathering place for families, golfers, and wellness seekers."}]]}]]}]]}]}],["$","section",null,{"className":"py-16 md:py-24 bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Our Core Values"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"These principles guide everything we do"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6","children":[["$","div","Excellence",{"className":"bg-background rounded-lg p-8 text-center shadow-md hover:shadow-lg transition-shadow","children":[["$","div",null,{"className":"flex justify-center mb-4 text-accent","children":"$L4"}],"$L5","$L6"]}],"$L7","$L8","$L9"]}]]}]}],"$La","$Lb","$Lc","$Ld"]}],"$Le"],["$Lf"],"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0s8TRn_80MrcpXhDURPC6"}
+4:["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-award","aria-hidden":"true","children":[["$","path","1yiouv",{"d":"m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526"}],["$","circle","1vp47v",{"cx":"12","cy":"8","r":"6"}],"$undefined"]}]
+5:["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-3","children":"Excellence"}]
+6:["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"We pursue excellence in every detail, from service to facilities, ensuring our guests receive the highest standards."}]
+7:["$","div","Hospitality",{"className":"bg-background rounded-lg p-8 text-center shadow-md hover:shadow-lg transition-shadow","children":[["$","div",null,{"className":"flex justify-center mb-4 text-accent","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-heart","aria-hidden":"true","children":[["$","path","mvr1a0",{"d":"M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-3","children":"Hospitality"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Genuine warmth and attention define our approach. We treat every guest as family."}]]}]
+8:["$","div","Sustainability",{"className":"bg-background rounded-lg p-8 text-center shadow-md hover:shadow-lg transition-shadow","children":[["$","div",null,{"className":"flex justify-center mb-4 text-accent","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-globe","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","path","13o1zl",{"d":"M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"}],["$","path","9i4pu4",{"d":"M2 12h20"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-3","children":"Sustainability"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"We are committed to preserving the natural beauty of Mt. Rwenzori for future generations."}]]}]
+9:["$","div","Community",{"className":"bg-background rounded-lg p-8 text-center shadow-md hover:shadow-lg transition-shadow","children":[["$","div",null,{"className":"flex justify-center mb-4 text-accent","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-users","aria-hidden":"true","children":[["$","path","1yyitq",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"}],["$","path","16gr8j",{"d":"M16 3.128a4 4 0 0 1 0 7.744"}],["$","path","kshegd",{"d":"M22 21v-2a4 4 0 0 0-3-3.87"}],["$","circle","nufk8",{"cx":"9","cy":"7","r":"4"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-3","children":"Community"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"We support local communities and employ passionate local staff who share our vision."}]]}]
+a:["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Our Recent Journey"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Key milestones from the last four years"}]]}],["$","div",null,{"className":"relative","children":[["$","div",null,{"className":"hidden md:block absolute left-1/2 top-0 bottom-0 w-1 bg-accent/20 transform -translate-x-1/2"}],["$","div",null,{"className":"space-y-12","children":[["$","div","2023",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center ","children":[["$","div",null,{"className":"md:col-start-2","children":["$","div",null,{"className":"bg-white rounded-lg p-8 shadow-md","children":[["$","div",null,{"className":"text-accent font-bold text-lg mb-2","children":"2023"}],["$","h3",null,{"className":"font-serif text-2xl font-bold text-foreground mb-2","children":"Infrastructure & Tech Upgrades"}],["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"Invested heavily in eco-resort infrastructure, bringing high-speed 5G network arrays and modern, sustainable premium utilities throughout all cottages and facilities."}]]}]}],["$","div",null,{"className":"hidden md:flex justify-center","children":["$","div",null,{"className":"w-4 h-4 bg-accent rounded-full ring-4 ring-white"}]}]]}],["$","div","2024",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"md:col-start-1","children":["$","div",null,{"className":"bg-white rounded-lg p-8 shadow-md","children":[["$","div",null,{"className":"text-accent font-bold text-lg mb-2","children":"2024"}],["$","h3",null,{"className":"font-serif text-2xl font-bold text-foreground mb-2","children":"Banqueting & Conference Growth"}],["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"Expanded our hosting capacity with the launch of our modern 400-guest Conference Hall and premium 250-guest indoor wedding venues to accommodate landmark events."}]]}]}],["$","div",null,{"className":"hidden md:flex justify-center","children":["$","div",null,{"className":"w-4 h-4 bg-accent rounded-full ring-4 ring-white"}]}]]}],["$","div","2025",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center ","children":[["$","div",null,{"className":"md:col-start-2","children":["$","div",null,{"className":"bg-white rounded-lg p-8 shadow-md","children":[["$","div",null,{"className":"text-accent font-bold text-lg mb-2","children":"2025"}],["$","h3",null,{"className":"font-serif text-2xl font-bold text-foreground mb-2","children":"Eco-Tourism & Wilderness Alliances"}],["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"Formalized premium excursion packages, offering curated routes to Queen Elizabeth National Park, Semuliki, and Gorilla tracking in Kibale National Game Park."}]]}]}],["$","div",null,{"className":"hidden md:flex justify-center","children":["$","div",null,{"className":"w-4 h-4 bg-accent rounded-full ring-4 ring-white"}]}]]}],["$","div","2026",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"md:col-start-1","children":["$","div",null,{"className":"bg-white rounded-lg p-8 shadow-md","children":[["$","div",null,{"className":"text-accent font-bold text-lg mb-2","children":"2026"}],["$","h3",null,{"className":"font-serif text-2xl font-bold text-foreground mb-2","children":"Championship Golf Redesign"}],["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"Unveiled updates to our signature 9-hole course, spotlighting challenging holes and water-protected greens naturally bordered by the crossing waters of River Peripa and River Igasa."}]]}]}],["$","div",null,{"className":"hidden md:flex justify-center","children":"$L11"}]]}]]}]]}]]}]}]
+b:["$","section",null,{"className":"py-16 md:py-24 bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Our Team"}],["$","p",null,{"className":"text-lg text-muted-foreground max-w-2xl mx-auto","children":"Passionate professionals dedicated to your comfort and satisfaction"}]]}],["$","div",null,{"className":"bg-secondary rounded-lg p-8 md:p-12","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"text-4xl font-bold text-primary mb-2","children":"150+"}],["$","p",null,{"className":"text-foreground/80","children":"Dedicated staff members"}]]}],["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"text-4xl font-bold text-accent mb-2","children":"50+"}],["$","p",null,{"className":"text-foreground/80","children":"Years combined hospitality experience"}]]}],["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"text-4xl font-bold text-primary mb-2","children":"30+"}],["$","p",null,{"className":"text-foreground/80","children":"Countries represented in our team"}]]}]]}],["$","p",null,{"className":"text-foreground/80 text-center mt-8 leading-relaxed","children":"From our management team to our greenkeepers and caddies, every member of Mt. Rwenzori is committed to ensuring your stay is exceptional. Our team undergoes continuous training to maintain the highest standards of service."}]]}]]}]}]
+c:["$","section",null,{"className":"py-16 md:py-24 bg-primary text-primary-foreground","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6 text-center","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold mb-4","children":"Ready to Experience Mt. Rwenzori?"}],["$","p",null,{"className":"text-lg opacity-90 mb-8 max-w-2xl mx-auto","children":"Join us for an unforgettable mountain retreat. Whether you're looking to challenge yourself on our river-spanning greens, explore wild safaris, or simply enjoy a peaceful escape, we're ready to welcome you."}],["$","button",null,{"className":"bg-accent text-accent-foreground px-8 py-3 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"Book Your Stay Today"}]]}]}]
+d:["$","section",null,{"className":"bg-gradient-to-r from-primary to-primary/90 text-primary-foreground py-12 md:py-16","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12","children":[["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Book Your Stay"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Reserve your perfect mountain retreat today"}],["$","$L12",null,{"href":"/accommodation","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"Check Availability"}]]}],["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Call Us"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Speak to our reservation team"}],["$","a",null,{"href":"tel:+256746077473","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"+256 746 077 473"}]]}],["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Email Us"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Send us your inquiries"}],["$","a",null,{"href":"mailto:mtrwenzorigolfresortspa@gmail.com","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"mtrwenzorigolfresortspa@gmail.com"}]]}]]}]}]}]
+13:T2698,
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:opsz,wght@9..40,300;9..40,400&display=swap');
+
+        .ftr {
+          background: #1a1f1b;
+          font-family: 'DM Sans', sans-serif;
+          color: rgba(249,246,241,0.55);
+          position: relative;
+          overflow: hidden;
+        }
+
+        /* subtle radial glows */
+        .ftr::before {
+          content: '';
+          position: absolute;
+          top: 0; left: 0; right: 0;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, rgba(184,148,90,0.5), transparent);
+        }
+
+        .ftr::after {
+          content: '';
+          position: absolute;
+          bottom: -120px; right: -120px;
+          width: 480px; height: 480px;
+          background: radial-gradient(circle, rgba(44,61,46,0.35) 0%, transparent 70%);
+          pointer-events: none;
+        }
+
+        /* ─── CTA strip ──────────────────── */
+        .ftr-cta {
+          border-bottom: 1px solid rgba(255,255,255,0.06);
+          padding: clamp(40px, 6vw, 72px) clamp(20px, 5vw, 64px);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 32px;
+          flex-wrap: wrap;
+          position: relative;
+          z-index: 1;
+        }
+
+        .ftr-cta-text {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: clamp(26px, 4vw, 44px);
+          font-weight: 300;
+          color: #f9f6f1;
+          line-height: 1.15;
+          max-width: 540px;
+        }
+
+        .ftr-cta-text em {
+          font-style: italic;
+          color: #d4aa72;
+        }
+
+        .ftr-cta-btn {
+          display: inline-flex;
+          align-items: center;
+          gap: 10px;
+          background: #b8945a;
+          color: #f9f6f1;
+          padding: 14px 34px;
+          font-family: 'DM Sans', sans-serif;
+          font-size: 11px;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+          text-decoration: none;
+          border: 1px solid #b8945a;
+          border-radius: 1px;
+          white-space: nowrap;
+          flex-shrink: 0;
+          transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .ftr-cta-btn:hover {
+          background: #d4aa72;
+          border-color: #d4aa72;
+          transform: translateY(-2px);
+          box-shadow: 0 10px 32px rgba(184,148,90,0.3);
+        }
+
+        /* ─── Main grid ──────────────────── */
+        .ftr-main {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: clamp(48px, 7vw, 88px) clamp(20px, 5vw, 64px) 0;
+          display: grid;
+          grid-template-columns: 1.8fr 1fr 1fr 1.4fr;
+          gap: 48px 56px;
+          position: relative;
+          z-index: 1;
+        }
+
+        @media (max-width: 1024px) {
+          .ftr-main { grid-template-columns: 1fr 1fr; }
+        }
+        @media (max-width: 560px) {
+          .ftr-main { grid-template-columns: 1fr; }
+        }
+
+        /* ─── Brand col ──────────────────── */
+        .ftr-brand-logo {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          text-decoration: none;
+          margin-bottom: 20px;
+        }
+
+        .ftr-brand-logo img {
+          width: 48px;
+          height: 48px;
+          object-fit: contain;
+          border-radius: 50%;
+          border: 1px solid rgba(184,148,90,0.3);
+        }
+
+        .ftr-brand-name {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 20px;
+          font-weight: 400;
+          color: #f9f6f1;
+          line-height: 1;
+        }
+
+        .ftr-brand-sub {
+          font-size: 9px;
+          letter-spacing: 0.2em;
+          text-transform: uppercase;
+          color: #b8945a;
+          margin-top: 4px;
+          font-weight: 400;
+          display: block;
+        }
+
+        .ftr-brand-desc {
+          font-size: 13.5px;
+          line-height: 1.8;
+          color: rgba(249,246,241,0.45);
+          font-weight: 300;
+          margin-bottom: 28px;
+          max-width: 300px;
+        }
+
+        .ftr-socials {
+          display: flex;
+          gap: 6px;
+        }
+
+        .ftr-social {
+          width: 36px;
+          height: 36px;
+          border: 1px solid rgba(255,255,255,0.1);
+          border-radius: 1px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: rgba(249,246,241,0.4);
+          text-decoration: none;
+          transition: border-color 0.25s ease, color 0.25s ease, background 0.25s ease;
+        }
+
+        .ftr-social:hover {
+          border-color: #b8945a;
+          color: #b8945a;
+          background: rgba(184,148,90,0.08);
+        }
+
+        /* ─── Column heading ─────────────── */
+        .ftr-col-head {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          font-size: 10px;
+          letter-spacing: 0.22em;
+          text-transform: uppercase;
+          color: #b8945a;
+          font-weight: 400;
+          margin-bottom: 20px;
+        }
+
+        .ftr-col-head::before {
+          content: '';
+          display: block;
+          width: 20px;
+          height: 1px;
+          background: #b8945a;
+          flex-shrink: 0;
+        }
+
+        /* ─── Nav links ──────────────────── */
+        .ftr-nav-list {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .ftr-nav-link {
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          text-decoration: none;
+          padding: 6px 0;
+          display: inline-flex;
+          align-items: center;
+          gap: 0;
+          border-bottom: 1px solid transparent;
+          transition: color 0.25s ease, gap 0.3s ease;
+          font-weight: 300;
+          letter-spacing: 0.02em;
+        }
+
+        .ftr-nav-link::before {
+          content: '—';
+          font-size: 10px;
+          color: #b8945a;
+          opacity: 0;
+          width: 0;
+          overflow: hidden;
+          transition: opacity 0.25s ease, width 0.3s ease;
+          letter-spacing: 0;
+        }
+
+        .ftr-nav-link:hover {
+          color: #f9f6f1;
+          gap: 8px;
+        }
+
+        .ftr-nav-link:hover::before {
+          opacity: 1;
+          width: 20px;
+        }
+
+        /* ─── Services list ──────────────── */
+        .ftr-service-item {
+          font-size: 13px;
+          color: rgba(249,246,241,0.45);
+          padding: 6px 0;
+          font-weight: 300;
+          letter-spacing: 0.02em;
+          border-bottom: 1px solid rgba(255,255,255,0.04);
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .ftr-service-item::before {
+          content: '';
+          display: block;
+          width: 4px;
+          height: 4px;
+          border-radius: 50%;
+          background: #b8945a;
+          opacity: 0.6;
+          flex-shrink: 0;
+        }
+
+        /* ─── Contact items ──────────────── */
+        .ftr-contact-list {
+          display: flex;
+          flex-direction: column;
+          gap: 14px;
+        }
+
+        .ftr-contact-item {
+          display: flex;
+          gap: 12px;
+          align-items: flex-start;
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          font-weight: 300;
+          line-height: 1.6;
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        a.ftr-contact-item:hover { color: rgba(249,246,241,0.85); }
+
+        .ftr-contact-icon {
+          width: 30px;
+          height: 30px;
+          border: 1px solid rgba(184,148,90,0.25);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #b8945a;
+          flex-shrink: 0;
+          margin-top: 1px;
+        }
+
+        /* ─── Bottom bar ─────────────────── */
+        .ftr-bottom {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: 32px clamp(20px, 5vw, 64px) clamp(32px, 5vw, 48px);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 20px;
+          flex-wrap: wrap;
+          border-top: 1px solid rgba(255,255,255,0.06);
+          margin-top: 56px;
+          position: relative;
+          z-index: 1;
+        }
+
+        .ftr-bottom-left {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
+        }
+
+        .ftr-copyright {
+          font-size: 12px;
+          color: rgba(249,246,241,0.35);
+          letter-spacing: 0.04em;
+        }
+
+        .ftr-dev {
+          font-size: 11px;
+          color: rgba(249,246,241,0.2);
+          letter-spacing: 0.06em;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          flex-wrap: wrap;
+        }
+
+        .ftr-dev a {
+          color: rgba(249,246,241,0.3);
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        .ftr-dev a:hover { color: #b8945a; }
+
+        .ftr-dev-sep {
+          opacity: 0.3;
+        }
+
+        .ftr-bottom-right {
+          display: flex;
+          gap: 24px;
+        }
+
+        .ftr-legal-link {
+          font-size: 11px;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          color: rgba(249,246,241,0.25);
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        .ftr-legal-link:hover { color: rgba(249,246,241,0.6); }
+      e:[["$","style",null,{"children":"$13"}],"$L14"]
+f:["$","script","script-0",{"src":"/_next/static/chunks/0iscyf14w67qm.js","async":true}]
+10:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+11:["$","div",null,{"className":"w-4 h-4 bg-accent rounded-full ring-4 ring-white"}]
+14:["$","footer",null,{"className":"ftr","children":[["$","div",null,{"className":"ftr-cta","children":[["$","p",null,{"className":"ftr-cta-text","children":["Your mountain escape ",["$","em",null,{"children":"awaits."}],["$","br",null,{}],"Reserve your stay today."]}],["$","$L12",null,{"href":"/booking","className":"ftr-cta-btn","children":["Book Your Stay",["$","svg",null,{"width":"14","height":"14","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13 7l5 5m0 0l-5 5m5-5H6"}]}]]}]]}],["$","div",null,{"className":"ftr-main","children":[["$","div",null,{"children":[["$","$L12",null,{"href":"/","className":"ftr-brand-logo","children":[["$","img",null,{"src":"/logo.JPG","alt":"Mt. Rwenzori Golf Resort"}],["$","div",null,{"children":[["$","span",null,{"className":"ftr-brand-name","children":"Mt. Rwenzori"}],["$","span",null,{"className":"ftr-brand-sub","children":"Golf Resort & Spa"}]]}]]}],["$","p",null,{"className":"ftr-brand-desc","children":"A serene mountain retreat in the heart of the Rwenzori Mountains — offering luxury accommodation, championship golf, and world-class spa services."}],["$","div",null,{"className":"ftr-socials","children":[["$","a","Facebook",{"href":"https://www.facebook.com/profile.php?id=61589477902150","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"Facebook","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-facebook","aria-hidden":"true","children":[["$","path","1jg4f8",{"d":"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"}],"$undefined"]}]}],["$","a","Instagram",{"href":"https://instagram.com","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"Instagram","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}],["$","a","X",{"href":"https://x.com/home","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"X","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","a","TikTok",{"href":"https://tiktok.com/@mtrwenzori","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"TikTok","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-music","aria-hidden":"true","children":[["$","path","1jmyc2",{"d":"M9 18V5l12-2v13"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","circle","1hluhg",{"cx":"18","cy":"16","r":"3"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Navigate"}],["$","ul",null,{"className":"ftr-nav-list","children":[["$","li","/",{"children":["$","$L12",null,{"href":"/","className":"ftr-nav-link","children":"Home"}]}],["$","li","/accommodation",{"children":["$","$L12",null,{"href":"/accommodation","className":"ftr-nav-link","children":"Accommodation"}]}],["$","li","/golf",{"children":["$","$L12",null,{"href":"/golf","className":"ftr-nav-link","children":"Golf"}]}],["$","li","/spa",{"children":["$","$L12",null,{"href":"/spa","className":"ftr-nav-link","children":"Spa"}]}],["$","li","/amenities",{"children":["$","$L12",null,{"href":"/amenities","className":"ftr-nav-link","children":"Amenities"}]}],["$","li","/about",{"children":["$","$L12",null,{"href":"/about","className":"ftr-nav-link","children":"About"}]}],["$","li","/contact",{"children":["$","$L12",null,{"href":"/contact","className":"ftr-nav-link","children":"Contact"}]}]]}]]}],["$","div",null,{"children":["$L18","$L19"]}],"$L1a"]}],"$L1b"]}]
+17:null
+18:["$","div",null,{"className":"ftr-col-head","children":"Services"}]
+19:["$","div",null,{"children":[["$","div","9-Hole Golf Course",{"className":"ftr-service-item","children":"9-Hole Golf Course"}],["$","div","Premium Spa & Wellness",{"className":"ftr-service-item","children":"Premium Spa & Wellness"}],["$","div","Full English Breakfast",{"className":"ftr-service-item","children":"Full English Breakfast"}],["$","div","High-Speed WiFi",{"className":"ftr-service-item","children":"High-Speed WiFi"}],["$","div","Event Hosting",{"className":"ftr-service-item","children":"Event Hosting"}],["$","div","Mountain Trekking",{"className":"ftr-service-item","children":"Mountain Trekking"}]]}]
+1a:["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Contact Us"}],["$","div",null,{"className":"ftr-contact-list","children":[["$","div",null,{"className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-map-pin","aria-hidden":"true","children":[["$","path","1r0f0z",{"d":"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"}],["$","circle","ilqhr7",{"cx":"12","cy":"10","r":"3"}],"$undefined"]}]}],["$","span",null,{"children":"Kasese, Rwenzori Mountain Region, Uganda"}]]}],["$","a",null,{"href":"tel:+256746077473","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}]}],["$","span",null,{"children":"+256 746 077 473"}]]}],["$","a",null,{"href":"tel:+256774751727","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}]}],["$","span",null,{"children":"+256 774 751 727"}]]}],["$","a",null,{"href":"mailto:mtrwenzorigolfresortspa@gmail.com","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}]}],["$","span",null,{"children":"mtrwenzorigolfresortspa@gmail.com"}]]}],["$","div",null,{"className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}]}],["$","span",null,{"children":["Open Year-Round",["$","br",null,{}],"Check-in from 2:00 PM"]}]]}]]}]]}]
+1b:["$","div",null,{"className":"ftr-bottom","children":[["$","div",null,{"className":"ftr-bottom-left","children":[["$","p",null,{"className":"ftr-copyright","children":["© ",2026,"Mt. Rwenzori Golf Resort & Spa. All rights reserved."]}],["$","div",null,{"className":"ftr-dev","children":[["$","span",null,{"children":"Developed by Baliddawa Allan "}],["$","span",null,{"className":"ftr-dev-sep","children":"·"}],["$","a",null,{"href":"tel:0700966715","children":"0700 966 715"}],["$","span",null,{"className":"ftr-dev-sep","children":"·"}],["$","a",null,{"href":"tel:0785639406","children":"0785 639 406"}]]}]]}],["$","div",null,{"className":"ftr-bottom-right","children":[["$","$L12",null,{"href":"#","className":"ftr-legal-link","children":"Privacy"}],["$","$L12",null,{"href":"#","className":"ftr-legal-link","children":"Terms"}],["$","$L12",null,{"href":"/contact","className":"ftr-legal-link","children":"Contact"}]]}]]}]

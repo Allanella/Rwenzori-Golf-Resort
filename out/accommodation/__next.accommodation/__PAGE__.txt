@@ -1,0 +1,433 @@
+1:"$Sreact.fragment"
+2:I[13293,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],"Header"]
+3:I[98924,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],"HeroSection"]
+33:I[33596,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],""]
+3c:I[62711,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"OutletBoundary"]
+3d:"$Sreact.suspense"
+:HL["/images/_DSC9806.jpg","image"]
+:HL["/images/_DSC9796.jpg","image"]
+:HL["/images/_DSC9788.jpg","image"]
+:HL["/images/_DSC9790.jpg","image"]
+:HL["/images/_DSC9782.jpg","image"]
+:HL["/logo.JPG","image"]
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{"title":"Luxury Accommodation","subtitle":"Experience comfort and elegance surrounded by majestic mountain peaks","image":"/images/_DSC9790.jpg"}],["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Our Room Collection"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Choose from our carefully designed accommodations"}]]}],["$","div",null,{"className":"space-y-12","children":[["$","div","Deluxe Room",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center ","children":[["$","div",null,{"className":"","children":["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9806.jpg","alt":"Deluxe Room","className":"w-full h-full object-cover"}]}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground mb-2","children":"Deluxe Room"}],["$","p",null,{"className":"text-accent text-xl font-semibold mb-2","children":"$$100/night"}],["$","p",null,{"className":"text-muted-foreground text-sm mb-4","children":"1 Queen Bed"}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Our Deluxe Rooms offer comfortable accommodation with modern amenities and breathtaking mountain views. Perfect for individuals or couples seeking a cozy retreat."}],["$","div",null,{"className":"mb-8","children":[["$","h4",null,{"className":"font-serif text-lg font-bold text-foreground mb-4","children":"Amenities Include:"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-3","children":[["$","div","Queen bed",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Queen bed"}]]}],["$","div","Mountain view",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Mountain view"}]]}],["$","div","Private bathroom",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Private bathroom"}]]}],["$","div","Free toiletries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free toiletries"}]]}],["$","div","Shower",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":["$L4","$undefined"]}],"$L5"]}],"$L6","$L7","$L8","$L9","$La","$Lb"]}]]}],"$Lc"]}]]}],"$Ld","$Le","$Lf"]}]]}]}],"$L10","$L11","$L12","$L13","$L14","$L15"]}],"$L16"],["$L17"],"$L18"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0s8TRn_80MrcpXhDURPC6"}
+4:["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}]
+5:["$","span",null,{"className":"text-foreground/80 text-sm","children":"Shower"}]
+6:["$","div","Slippers",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Slippers"}]]}]
+7:["$","div","Flat-screen TV",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Flat-screen TV"}]]}]
+8:["$","div","Work desk",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Work desk"}]]}]
+9:["$","div","Wardrobe",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Wardrobe"}]]}]
+a:["$","div","Free WiFi",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free WiFi"}]]}]
+b:["$","div","Air conditioning",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Air conditioning"}]]}]
+c:["$","button",null,{"className":"bg-primary text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors","children":"Book Now"}]
+d:["$","div","Double Room with Mountain View",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"md:col-start-2","children":["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9796.jpg","alt":"Double Room with Mountain View","className":"w-full h-full object-cover"}]}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground mb-2","children":"Double Room with Mountain View"}],["$","p",null,{"className":"text-accent text-xl font-semibold mb-2","children":"$$60/night"}],["$","p",null,{"className":"text-muted-foreground text-sm mb-4","children":"1 Full Bed"}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Our Double Rooms provide affordable comfort with stunning mountain views and all essential amenities for a pleasant stay."}],["$","div",null,{"className":"mb-8","children":[["$","h4",null,{"className":"font-serif text-lg font-bold text-foreground mb-4","children":"Amenities Include:"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-3","children":[["$","div","Full bed",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Full bed"}]]}],["$","div","Mountain view",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Mountain view"}]]}],["$","div","Private bathroom",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Private bathroom"}]]}],["$","div","Free toiletries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free toiletries"}]]}],["$","div","Shower",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Shower"}]]}],["$","div","Slippers",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Slippers"}]]}],"$L19","$L1a","$L1b","$L1c","$L1d"]}]]}],"$L1e"]}]]}]
+e:["$","div","Cottage with Mountain View",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center ","children":[["$","div",null,{"className":"","children":["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9788.jpg","alt":"Cottage with Mountain View","className":"w-full h-full object-cover"}]}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground mb-2","children":"Cottage with Mountain View"}],["$","p",null,{"className":"text-accent text-xl font-semibold mb-2","children":"$$150/night"}],["$","p",null,{"className":"text-muted-foreground text-sm mb-4","children":"2 Twin Beds"}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Our charming cottages offer spacious accommodation with mountain views, featuring private terraces and complimentary breakfast for a complete mountain retreat experience."}],["$","div",null,{"className":"mb-8","children":[["$","h4",null,{"className":"font-serif text-lg font-bold text-foreground mb-4","children":"Amenities Include:"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-3","children":[["$","div","Twin beds",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Twin beds"}]]}],["$","div","Mountain view",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Mountain view"}]]}],["$","div","Private bathroom",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Private bathroom"}]]}],["$","div","Free toiletries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free toiletries"}]]}],["$","div","Shower",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Shower"}]]}],["$","div","Slippers",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Slippers"}]]}],"$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]]}],"$L26"]}]]}]
+f:["$","div","Twin Room with Mountain View",{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"md:col-start-2","children":["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9790.jpg","alt":"Twin Room with Mountain View","className":"w-full h-full object-cover"}]}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground mb-2","children":"Twin Room with Mountain View"}],["$","p",null,{"className":"text-accent text-xl font-semibold mb-2","children":"$$70/night"}],["$","p",null,{"className":"text-muted-foreground text-sm mb-4","children":"2 Twin Beds"}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Our Twin Rooms are perfect for friends or families, featuring mountain views, complimentary breakfast, and a round of golf for an all-inclusive mountain experience."}],["$","div",null,{"className":"mb-8","children":[["$","h4",null,{"className":"font-serif text-lg font-bold text-foreground mb-4","children":"Amenities Include:"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-3","children":[["$","div","Twin beds",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Twin beds"}]]}],["$","div","Mountain view",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Mountain view"}]]}],["$","div","Private bathroom",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Private bathroom"}]]}],["$","div","Free toiletries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free toiletries"}]]}],["$","div","Shower",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Shower"}]]}],["$","div","Slippers",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Slippers"}]]}],"$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]}]]}],"$L2e"]}]]}]
+10:["$","section",null,{"className":"py-16 md:py-24 bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Exceptional Facilities"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Everything you need for a perfect mountain retreat"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8","children":[["$","div",null,{"className":"bg-secondary rounded-lg p-6","children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-4","children":"Room Amenities"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Private bathroom with shower",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Private bathroom with shower"}]]}],["$","li","Free toiletries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free toiletries"}]]}],["$","li","Slippers provided",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Slippers provided"}]]}],["$","li","Flat-screen TV",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Flat-screen TV"}]]}],["$","li","Work desk",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Work desk"}]]}],["$","li","Wardrobe",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Wardrobe"}]]}],["$","li","Non-smoking rooms",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],"$L2f"]}],"$L30"]}]]}],"$L31","$L32"]}]]}]}]
+11:["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-12","children":[["$","div",null,{"children":[["$","h2",null,{"className":"font-serif text-4xl font-bold text-foreground mb-6","children":"Prime Location"}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Located in the beautiful Fort Portal area, MT. Rwenzori Golf Resort & Spa offers the perfect base for exploring the natural wonders of Western Uganda."}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-center gap-3","children":[["$","div",null,{"className":"w-2 h-2 bg-accent rounded-full"}],["$","span",null,{"className":"text-foreground/80","children":"33 mi from Kasese Airport"}]]}],["$","div",null,{"className":"flex items-center gap-3","children":[["$","div",null,{"className":"w-2 h-2 bg-accent rounded-full"}],["$","span",null,{"className":"text-foreground/80","children":"Free private parking on-site"}]]}],["$","div",null,{"className":"flex items-center gap-3","children":[["$","div",null,{"className":"w-2 h-2 bg-accent rounded-full"}],["$","span",null,{"className":"text-foreground/80","children":"Highly rated by recent guests (10.0)"}]]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground mb-6","children":"Nearby Attractions"}],["$","ul",null,{"className":"space-y-4","children":[["$","li",null,{"className":"flex justify-between items-center py-3 border-b border-border","children":[["$","span",null,{"className":"text-foreground/80","children":"Toroo Botanical Gardens"}],["$","span",null,{"className":"text-accent font-medium","children":"16 mi"}]]}],["$","li",null,{"className":"flex justify-between items-center py-3 border-b border-border","children":[["$","span",null,{"className":"text-foreground/80","children":"Lake Nkuruba Nature Reserve"}],["$","span",null,{"className":"text-accent font-medium","children":"21 mi"}]]}],["$","li",null,{"className":"flex justify-between items-center py-3 border-b border-border","children":[["$","span",null,{"className":"text-foreground/80","children":"Kibale Forest Hall Game Reserve"}],["$","span",null,{"className":"text-accent font-medium","children":"22 mi"}]]}],["$","li",null,{"className":"flex justify-between items-center py-3","children":[["$","span",null,{"className":"text-foreground/80","children":"Rwenzori Mountains National Park"}],["$","span",null,{"className":"text-accent font-medium","children":"25 mi"}]]}]]}]]}]]}]}]}]
+12:["$","section",null,{"className":"py-16 md:py-24 bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Property Highlights"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Why guests love staying with us"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6","children":[["$","div",null,{"className":"text-center p-6 bg-secondary rounded-lg","children":[["$","div",null,{"className":"text-4xl font-bold text-accent mb-2","children":"10.0"}],["$","div",null,{"className":"text-sm text-foreground/80","children":"Guest Rating"}],["$","div",null,{"className":"text-xs text-muted-foreground mt-2","children":"Exceptional"}]]}],["$","div",null,{"className":"text-center p-6 bg-secondary rounded-lg","children":[["$","div",null,{"className":"text-2xl font-bold text-accent mb-2","children":"📍"}],["$","div",null,{"className":"text-sm text-foreground/80","children":"Top Location"}],["$","div",null,{"className":"text-xs text-muted-foreground mt-2","children":"Highly rated area"}]]}],["$","div",null,{"className":"text-center p-6 bg-secondary rounded-lg","children":[["$","div",null,{"className":"text-2xl font-bold text-accent mb-2","children":"🅿️"}],["$","div",null,{"className":"text-sm text-foreground/80","children":"Free Parking"}],["$","div",null,{"className":"text-xs text-muted-foreground mt-2","children":"On-site available"}]]}],["$","div",null,{"className":"text-center p-6 bg-secondary rounded-lg","children":[["$","div",null,{"className":"text-2xl font-bold text-accent mb-2","children":"📶"}],["$","div",null,{"className":"text-sm text-foreground/80","children":"Free WiFi"}],["$","div",null,{"className":"text-xs text-muted-foreground mt-2","children":"All areas"}]]}]]}],["$","div",null,{"className":"mt-8 text-center","children":[["$","p",null,{"className":"text-foreground/80 mb-4","children":[["$","strong",null,{"children":"We Price Match"}]," - Find a lower price? We'll match it!"]}],["$","$L33",null,{"href":"/booking","className":"inline-flex items-center bg-accent hover:bg-accent/90 text-accent-foreground px-8 py-3 rounded-lg font-semibold transition-colors","children":"Check Availability"}]]}]]}]}]
+13:["$","section",null,{"className":"py-16 md:py-24 bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9782.jpg","alt":"English breakfast","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","h2",null,{"className":"font-serif text-4xl font-bold text-foreground mb-4","children":"Traditional English Breakfast"}],["$","p",null,{"className":"text-foreground/80 mb-4 leading-relaxed","children":"Every morning at Mt. Rwenzori, we serve a sumptuous full English breakfast featuring:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Freshly baked bread and pastries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Freshly baked bread and pastries"}]]}],["$","li","Eggs prepared to your preference",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Eggs prepared to your preference"}]]}],["$","li","Premium bacon and sausages",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Premium bacon and sausages"}]]}],["$","li","Fresh fruit and seasonal berries",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Fresh fruit and seasonal berries"}]]}],["$","li","Greek yogurt and granola",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Greek yogurt and granola"}]]}],["$","li","Freshly squeezed orange juice",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Freshly squeezed orange juice"}]]}],["$","li","Artisan coffee and premium teas",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":["$L34","$undefined"]}],"$L35"]}],"$L36"]}],"$L37"]}]]}]}]}]
+14:["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Resort Experience"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Discover the beauty and comfort of Mt. Rwenzori"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg","children":["$","img",null,{"src":"/images/_DSC9788.jpg","alt":"Resort dining experience","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground mb-4","children":"Exceptional Dining"}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Experience fine dining at its best with our carefully curated menu featuring both local and international cuisine. Our chefs use only the freshest ingredients sourced from local farms and markets."}],["$","ul",null,{"className":"space-y-3 mb-6","children":[["$","li","Farm-to-table dining experience",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Farm-to-table dining experience"}]]}],["$","li","Expertly crafted seasonal menus",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Expertly crafted seasonal menus"}]]}],["$","li","Extensive wine selection",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Extensive wine selection"}]]}],["$","li","Private dining available",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Private dining available"}]]}],["$","li","24-hour room service",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"24-hour room service"}]]}],["$","li","Dietary accommodations",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":["$L38","$undefined"]}],"$L39"]}]]}]]}]]}]]}]}]
+15:["$","section",null,{"className":"bg-gradient-to-r from-primary to-primary/90 text-primary-foreground py-12 md:py-16","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12","children":[["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Book Your Stay"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Reserve your perfect mountain retreat today"}],["$","$L33",null,{"href":"/accommodation","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"Check Availability"}]]}],["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Call Us"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Speak to our reservation team"}],["$","a",null,{"href":"tel:+256746077473","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"+256 746 077 473"}]]}],["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Email Us"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Send us your inquiries"}],["$","a",null,{"href":"mailto:mtrwenzorigolfresortspa@gmail.com","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"mtrwenzorigolfresortspa@gmail.com"}]]}]]}]}]}]
+3a:T2698,
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:opsz,wght@9..40,300;9..40,400&display=swap');
+
+        .ftr {
+          background: #1a1f1b;
+          font-family: 'DM Sans', sans-serif;
+          color: rgba(249,246,241,0.55);
+          position: relative;
+          overflow: hidden;
+        }
+
+        /* subtle radial glows */
+        .ftr::before {
+          content: '';
+          position: absolute;
+          top: 0; left: 0; right: 0;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, rgba(184,148,90,0.5), transparent);
+        }
+
+        .ftr::after {
+          content: '';
+          position: absolute;
+          bottom: -120px; right: -120px;
+          width: 480px; height: 480px;
+          background: radial-gradient(circle, rgba(44,61,46,0.35) 0%, transparent 70%);
+          pointer-events: none;
+        }
+
+        /* ─── CTA strip ──────────────────── */
+        .ftr-cta {
+          border-bottom: 1px solid rgba(255,255,255,0.06);
+          padding: clamp(40px, 6vw, 72px) clamp(20px, 5vw, 64px);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 32px;
+          flex-wrap: wrap;
+          position: relative;
+          z-index: 1;
+        }
+
+        .ftr-cta-text {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: clamp(26px, 4vw, 44px);
+          font-weight: 300;
+          color: #f9f6f1;
+          line-height: 1.15;
+          max-width: 540px;
+        }
+
+        .ftr-cta-text em {
+          font-style: italic;
+          color: #d4aa72;
+        }
+
+        .ftr-cta-btn {
+          display: inline-flex;
+          align-items: center;
+          gap: 10px;
+          background: #b8945a;
+          color: #f9f6f1;
+          padding: 14px 34px;
+          font-family: 'DM Sans', sans-serif;
+          font-size: 11px;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+          text-decoration: none;
+          border: 1px solid #b8945a;
+          border-radius: 1px;
+          white-space: nowrap;
+          flex-shrink: 0;
+          transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .ftr-cta-btn:hover {
+          background: #d4aa72;
+          border-color: #d4aa72;
+          transform: translateY(-2px);
+          box-shadow: 0 10px 32px rgba(184,148,90,0.3);
+        }
+
+        /* ─── Main grid ──────────────────── */
+        .ftr-main {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: clamp(48px, 7vw, 88px) clamp(20px, 5vw, 64px) 0;
+          display: grid;
+          grid-template-columns: 1.8fr 1fr 1fr 1.4fr;
+          gap: 48px 56px;
+          position: relative;
+          z-index: 1;
+        }
+
+        @media (max-width: 1024px) {
+          .ftr-main { grid-template-columns: 1fr 1fr; }
+        }
+        @media (max-width: 560px) {
+          .ftr-main { grid-template-columns: 1fr; }
+        }
+
+        /* ─── Brand col ──────────────────── */
+        .ftr-brand-logo {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          text-decoration: none;
+          margin-bottom: 20px;
+        }
+
+        .ftr-brand-logo img {
+          width: 48px;
+          height: 48px;
+          object-fit: contain;
+          border-radius: 50%;
+          border: 1px solid rgba(184,148,90,0.3);
+        }
+
+        .ftr-brand-name {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 20px;
+          font-weight: 400;
+          color: #f9f6f1;
+          line-height: 1;
+        }
+
+        .ftr-brand-sub {
+          font-size: 9px;
+          letter-spacing: 0.2em;
+          text-transform: uppercase;
+          color: #b8945a;
+          margin-top: 4px;
+          font-weight: 400;
+          display: block;
+        }
+
+        .ftr-brand-desc {
+          font-size: 13.5px;
+          line-height: 1.8;
+          color: rgba(249,246,241,0.45);
+          font-weight: 300;
+          margin-bottom: 28px;
+          max-width: 300px;
+        }
+
+        .ftr-socials {
+          display: flex;
+          gap: 6px;
+        }
+
+        .ftr-social {
+          width: 36px;
+          height: 36px;
+          border: 1px solid rgba(255,255,255,0.1);
+          border-radius: 1px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: rgba(249,246,241,0.4);
+          text-decoration: none;
+          transition: border-color 0.25s ease, color 0.25s ease, background 0.25s ease;
+        }
+
+        .ftr-social:hover {
+          border-color: #b8945a;
+          color: #b8945a;
+          background: rgba(184,148,90,0.08);
+        }
+
+        /* ─── Column heading ─────────────── */
+        .ftr-col-head {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          font-size: 10px;
+          letter-spacing: 0.22em;
+          text-transform: uppercase;
+          color: #b8945a;
+          font-weight: 400;
+          margin-bottom: 20px;
+        }
+
+        .ftr-col-head::before {
+          content: '';
+          display: block;
+          width: 20px;
+          height: 1px;
+          background: #b8945a;
+          flex-shrink: 0;
+        }
+
+        /* ─── Nav links ──────────────────── */
+        .ftr-nav-list {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .ftr-nav-link {
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          text-decoration: none;
+          padding: 6px 0;
+          display: inline-flex;
+          align-items: center;
+          gap: 0;
+          border-bottom: 1px solid transparent;
+          transition: color 0.25s ease, gap 0.3s ease;
+          font-weight: 300;
+          letter-spacing: 0.02em;
+        }
+
+        .ftr-nav-link::before {
+          content: '—';
+          font-size: 10px;
+          color: #b8945a;
+          opacity: 0;
+          width: 0;
+          overflow: hidden;
+          transition: opacity 0.25s ease, width 0.3s ease;
+          letter-spacing: 0;
+        }
+
+        .ftr-nav-link:hover {
+          color: #f9f6f1;
+          gap: 8px;
+        }
+
+        .ftr-nav-link:hover::before {
+          opacity: 1;
+          width: 20px;
+        }
+
+        /* ─── Services list ──────────────── */
+        .ftr-service-item {
+          font-size: 13px;
+          color: rgba(249,246,241,0.45);
+          padding: 6px 0;
+          font-weight: 300;
+          letter-spacing: 0.02em;
+          border-bottom: 1px solid rgba(255,255,255,0.04);
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .ftr-service-item::before {
+          content: '';
+          display: block;
+          width: 4px;
+          height: 4px;
+          border-radius: 50%;
+          background: #b8945a;
+          opacity: 0.6;
+          flex-shrink: 0;
+        }
+
+        /* ─── Contact items ──────────────── */
+        .ftr-contact-list {
+          display: flex;
+          flex-direction: column;
+          gap: 14px;
+        }
+
+        .ftr-contact-item {
+          display: flex;
+          gap: 12px;
+          align-items: flex-start;
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          font-weight: 300;
+          line-height: 1.6;
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        a.ftr-contact-item:hover { color: rgba(249,246,241,0.85); }
+
+        .ftr-contact-icon {
+          width: 30px;
+          height: 30px;
+          border: 1px solid rgba(184,148,90,0.25);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #b8945a;
+          flex-shrink: 0;
+          margin-top: 1px;
+        }
+
+        /* ─── Bottom bar ─────────────────── */
+        .ftr-bottom {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: 32px clamp(20px, 5vw, 64px) clamp(32px, 5vw, 48px);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 20px;
+          flex-wrap: wrap;
+          border-top: 1px solid rgba(255,255,255,0.06);
+          margin-top: 56px;
+          position: relative;
+          z-index: 1;
+        }
+
+        .ftr-bottom-left {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
+        }
+
+        .ftr-copyright {
+          font-size: 12px;
+          color: rgba(249,246,241,0.35);
+          letter-spacing: 0.04em;
+        }
+
+        .ftr-dev {
+          font-size: 11px;
+          color: rgba(249,246,241,0.2);
+          letter-spacing: 0.06em;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          flex-wrap: wrap;
+        }
+
+        .ftr-dev a {
+          color: rgba(249,246,241,0.3);
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        .ftr-dev a:hover { color: #b8945a; }
+
+        .ftr-dev-sep {
+          opacity: 0.3;
+        }
+
+        .ftr-bottom-right {
+          display: flex;
+          gap: 24px;
+        }
+
+        .ftr-legal-link {
+          font-size: 11px;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          color: rgba(249,246,241,0.25);
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        .ftr-legal-link:hover { color: rgba(249,246,241,0.6); }
+      16:[["$","style",null,{"children":"$3a"}],"$L3b"]
+17:["$","script","script-0",{"src":"/_next/static/chunks/0iscyf14w67qm.js","async":true}]
+18:["$","$L3c",null,{"children":["$","$3d",null,{"name":"Next.MetadataOutlet","children":"$@3e"}]}]
+19:["$","div","Flat-screen TV",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Flat-screen TV"}]]}]
+1a:["$","div","Work desk",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Work desk"}]]}]
+1b:["$","div","Wardrobe",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Wardrobe"}]]}]
+1c:["$","div","Free WiFi",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free WiFi"}]]}]
+1d:["$","div","Air conditioning",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Air conditioning"}]]}]
+1e:["$","button",null,{"className":"bg-primary text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors","children":"Book Now"}]
+1f:["$","div","Flat-screen TV",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Flat-screen TV"}]]}]
+20:["$","div","Work desk",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Work desk"}]]}]
+21:["$","div","Wardrobe",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Wardrobe"}]]}]
+22:["$","div","Free WiFi",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free WiFi"}]]}]
+23:["$","div","Air conditioning",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Air conditioning"}]]}]
+24:["$","div","Breakfast included",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Breakfast included"}]]}]
+25:["$","div","Private terrace",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Private terrace"}]]}]
+26:["$","button",null,{"className":"bg-primary text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors","children":"Book Now"}]
+27:["$","div","Flat-screen TV",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Flat-screen TV"}]]}]
+28:["$","div","Work desk",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Work desk"}]]}]
+29:["$","div","Wardrobe",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Wardrobe"}]]}]
+2a:["$","div","Free WiFi",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free WiFi"}]]}]
+2b:["$","div","Air conditioning",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Air conditioning"}]]}]
+2c:["$","div","Breakfast included",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Breakfast included"}]]}]
+2d:["$","div","1 round of golf included",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"1 round of golf included"}]]}]
+2e:["$","button",null,{"className":"bg-primary text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors","children":"Book Now"}]
+2f:["$","span",null,{"className":"text-foreground/80 text-sm","children":"Non-smoking rooms"}]
+30:["$","li","Air conditioning",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Air conditioning"}]]}]
+31:["$","div",null,{"className":"bg-secondary rounded-lg p-6","children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-4","children":"Resort Facilities"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Spa and wellness center",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Spa and wellness center"}]]}],["$","li","Beautiful garden",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Beautiful garden"}]]}],["$","li","Spacious terrace",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Spacious terrace"}]]}],["$","li","Restaurant",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Restaurant"}]]}],["$","li","Bar",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Bar"}]]}],["$","li","Free WiFi in all areas",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free WiFi in all areas"}]]}],["$","li","Room service",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Room service"}]]}],["$","li","Free on-site private parking",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Free on-site private parking"}]]}]]}]]}]
+32:["$","div",null,{"className":"bg-secondary rounded-lg p-6","children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-4","children":"Services"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","24-hour room service",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"24-hour room service"}]]}],["$","li","English breakfast included",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"English breakfast included"}]]}],["$","li","Daily housekeeping",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Daily housekeeping"}]]}],["$","li","Concierge service",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Concierge service"}]]}],["$","li","Airport shuttle (surcharge)",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Airport shuttle (surcharge)"}]]}],["$","li","Laundry service",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Laundry service"}]]}],["$","li","Currency exchange",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80 text-sm","children":"Currency exchange"}]]}],["$","li","Tour desk",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":["$L3f","$undefined"]}],"$L40"]}]]}]]}]
+34:["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}]
+35:["$","span",null,{"className":"text-foreground/80","children":"Artisan coffee and premium teas"}]
+36:["$","li","Locally sourced ingredients",{"className":"flex gap-3 items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-check text-accent flex-shrink-0 mt-0.5","aria-hidden":"true","children":[["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}],"$undefined"]}],["$","span",null,{"className":"text-foreground/80","children":"Locally sourced ingredients"}]]}]
+37:["$","p",null,{"className":"text-foreground/80 leading-relaxed","children":"All room packages include a complimentary full breakfast served in our dining room or on your private balcony."}]
+38:["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}]
+39:["$","span",null,{"className":"text-foreground/80","children":"Dietary accommodations"}]
+3b:["$","footer",null,{"className":"ftr","children":[["$","div",null,{"className":"ftr-cta","children":[["$","p",null,{"className":"ftr-cta-text","children":["Your mountain escape ",["$","em",null,{"children":"awaits."}],["$","br",null,{}],"Reserve your stay today."]}],["$","$L33",null,{"href":"/booking","className":"ftr-cta-btn","children":["Book Your Stay",["$","svg",null,{"width":"14","height":"14","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13 7l5 5m0 0l-5 5m5-5H6"}]}]]}]]}],["$","div",null,{"className":"ftr-main","children":[["$","div",null,{"children":[["$","$L33",null,{"href":"/","className":"ftr-brand-logo","children":[["$","img",null,{"src":"/logo.JPG","alt":"Mt. Rwenzori Golf Resort"}],["$","div",null,{"children":[["$","span",null,{"className":"ftr-brand-name","children":"Mt. Rwenzori"}],["$","span",null,{"className":"ftr-brand-sub","children":"Golf Resort & Spa"}]]}]]}],["$","p",null,{"className":"ftr-brand-desc","children":"A serene mountain retreat in the heart of the Rwenzori Mountains — offering luxury accommodation, championship golf, and world-class spa services."}],["$","div",null,{"className":"ftr-socials","children":[["$","a","Facebook",{"href":"https://www.facebook.com/profile.php?id=61589477902150","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"Facebook","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-facebook","aria-hidden":"true","children":[["$","path","1jg4f8",{"d":"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"}],"$undefined"]}]}],["$","a","Instagram",{"href":"https://instagram.com","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"Instagram","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}],["$","a","X",{"href":"https://x.com/home","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"X","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","a","TikTok",{"href":"https://tiktok.com/@mtrwenzori","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"TikTok","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-music","aria-hidden":"true","children":[["$","path","1jmyc2",{"d":"M9 18V5l12-2v13"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","circle","1hluhg",{"cx":"18","cy":"16","r":"3"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Navigate"}],["$","ul",null,{"className":"ftr-nav-list","children":[["$","li","/",{"children":["$","$L33",null,{"href":"/","className":"ftr-nav-link","children":"Home"}]}],["$","li","/accommodation",{"children":["$","$L33",null,{"href":"/accommodation","className":"ftr-nav-link","children":"Accommodation"}]}],["$","li","/golf",{"children":["$","$L33",null,{"href":"/golf","className":"ftr-nav-link","children":"Golf"}]}],["$","li","/spa",{"children":["$","$L33",null,{"href":"/spa","className":"ftr-nav-link","children":"Spa"}]}],["$","li","/amenities",{"children":["$","$L33",null,{"href":"/amenities","className":"ftr-nav-link","children":"Amenities"}]}],["$","li","/about",{"children":["$","$L33",null,{"href":"/about","className":"ftr-nav-link","children":"About"}]}],["$","li","/contact",{"children":["$","$L33",null,{"href":"/contact","className":"ftr-nav-link","children":"Contact"}]}]]}]]}],["$","div",null,{"children":["$L41","$L42"]}],"$L43"]}],"$L44"]}]
+3e:null
+3f:["$","path","1gmf2c",{"d":"M20 6 9 17l-5-5"}]
+40:["$","span",null,{"className":"text-foreground/80 text-sm","children":"Tour desk"}]
+41:["$","div",null,{"className":"ftr-col-head","children":"Services"}]
+42:["$","div",null,{"children":[["$","div","9-Hole Golf Course",{"className":"ftr-service-item","children":"9-Hole Golf Course"}],["$","div","Premium Spa & Wellness",{"className":"ftr-service-item","children":"Premium Spa & Wellness"}],["$","div","Full English Breakfast",{"className":"ftr-service-item","children":"Full English Breakfast"}],["$","div","High-Speed WiFi",{"className":"ftr-service-item","children":"High-Speed WiFi"}],["$","div","Event Hosting",{"className":"ftr-service-item","children":"Event Hosting"}],["$","div","Mountain Trekking",{"className":"ftr-service-item","children":"Mountain Trekking"}]]}]
+43:["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Contact Us"}],["$","div",null,{"className":"ftr-contact-list","children":[["$","div",null,{"className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-map-pin","aria-hidden":"true","children":[["$","path","1r0f0z",{"d":"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"}],["$","circle","ilqhr7",{"cx":"12","cy":"10","r":"3"}],"$undefined"]}]}],["$","span",null,{"children":"Kasese, Rwenzori Mountain Region, Uganda"}]]}],["$","a",null,{"href":"tel:+256746077473","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}]}],["$","span",null,{"children":"+256 746 077 473"}]]}],["$","a",null,{"href":"tel:+256774751727","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}]}],["$","span",null,{"children":"+256 774 751 727"}]]}],["$","a",null,{"href":"mailto:mtrwenzorigolfresortspa@gmail.com","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}]}],["$","span",null,{"children":"mtrwenzorigolfresortspa@gmail.com"}]]}],["$","div",null,{"className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}]}],["$","span",null,{"children":["Open Year-Round",["$","br",null,{}],"Check-in from 2:00 PM"]}]]}]]}]]}]
+44:["$","div",null,{"className":"ftr-bottom","children":[["$","div",null,{"className":"ftr-bottom-left","children":[["$","p",null,{"className":"ftr-copyright","children":["© ",2026,"Mt. Rwenzori Golf Resort & Spa. All rights reserved."]}],["$","div",null,{"className":"ftr-dev","children":[["$","span",null,{"children":"Developed by Baliddawa Allan "}],["$","span",null,{"className":"ftr-dev-sep","children":"·"}],["$","a",null,{"href":"tel:0700966715","children":"0700 966 715"}],["$","span",null,{"className":"ftr-dev-sep","children":"·"}],["$","a",null,{"href":"tel:0785639406","children":"0785 639 406"}]]}]]}],["$","div",null,{"className":"ftr-bottom-right","children":[["$","$L33",null,{"href":"#","className":"ftr-legal-link","children":"Privacy"}],["$","$L33",null,{"href":"#","className":"ftr-legal-link","children":"Terms"}],["$","$L33",null,{"href":"/contact","className":"ftr-legal-link","children":"Contact"}]]}]]}]

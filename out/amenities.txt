@@ -1,0 +1,427 @@
+1:"$Sreact.fragment"
+3:I[2063,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"default"]
+4:I[59666,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"default"]
+5:I[48409,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"Analytics"]
+6:I[13293,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],"Header"]
+7:I[98924,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],"HeroSection"]
+11:I[14743,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"default",1]
+:HL["/_next/static/chunks/01w.hx3iqd.el.css","style"]
+:HL["/_next/static/chunks/058mg54l03mzv.css","style"]
+:HL["/_next/static/media/01e4147cff8141ee-s.p.10ked.7w885.g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.0yo6-5yoeeudq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8bd76523131fa0fc-s.p.0jox806dnq5~c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:T499,{"@context":"https://schema.org","@type":"Resort","name":"Mt. Rwenzori Golf Resort & Spa","description":"Luxury mountain resort featuring a 9-hole golf course, premium spa, and accommodation in the Rwenzori Mountains, Uganda.","url":"https://mtrwenzorigolfresort.com","telephone":"+256746077473","address":{"@type":"PostalAddress","addressLocality":"Kasese","addressCountry":"UG"},"geo":{"@type":"GeoCoordinates","latitude":0.1836,"longitude":30.0815},"image":"https://mtrwenzorigolfresort.com/images/og-cover.jpg","priceRange":"$60–$150","amenityFeature":[{"@type":"LocationFeatureSpecification","name":"9-Hole Golf Course","value":true},{"@type":"LocationFeatureSpecification","name":"Spa & Wellness","value":true},{"@type":"LocationFeatureSpecification","name":"Restaurant","value":true},{"@type":"LocationFeatureSpecification","name":"Free WiFi","value":true},{"@type":"LocationFeatureSpecification","name":"Mountain Views","value":true},{"@type":"LocationFeatureSpecification","name":"Firepit Terrace","value":true}],"hasMap":"https://maps.google.com/?q=Mt+Rwenzori+Golf+Resort","sameAs":["https://facebook.com","https://instagram.com","https://tiktok.com/@mtrwenzori"]}0:{"P":null,"c":["","amenities"],"q":"","i":false,"f":[[["",{"children":["amenities",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01w.hx3iqd.el.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/058mg54l03mzv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-a.-ff0.k~ps.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14~kgkvlf1dej.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"cormorant_garamond_ad7bf1b8-module__QhnNea__variable dm_sans_a0866fa2-module___98QoW__variable","children":[["$","head",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","link",null,{"rel":"dns-prefetch","href":"//fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}]]}],["$","body",null,{"className":"antialiased","style":{"fontFamily":"var(--font-sans), system-ui, sans-serif","background":"#f9f6f1","color":"#1a1f1b"},"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L5",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","$L6",null,{}],["$","main",null,{"children":[["$","$L7",null,{"title":"Unforgettable Experiences & Amenities","subtitle":"Where raw Ugandan adventure meets luxurious sanctuary","image":"/images/_DSC9766.jpg"}],"$L8","$L9","$La","$Lb"]}],"$Lc"],["$Ld"],"$Le"]}],{},null,false,null]},null,false,"$@f"]},null,false,null],"$L10",false]],"m":"$undefined","G":["$11",["$L12","$L13"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0s8TRn_80MrcpXhDURPC6"}
+2b:I[33596,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js","/_next/static/chunks/0iscyf14w67qm.js"],""]
+2e:I[62711,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"OutletBoundary"]
+2f:"$Sreact.suspense"
+32:I[62711,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"ViewportBoundary"]
+34:I[62711,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"MetadataBoundary"]
+:HL["/cottage.jpeg","image"]
+:HL["/images/mountain-view.jpg","image"]
+:HL["/images/_DSC9736.png","image"]
+8:["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"What We Offer"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Tailor-made adventures, premium comfort, and memorable highlights to cherish."}]]}],["$","div",null,{"className":"space-y-16","children":[["$","div","Traditional African Cottages & Campsite",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center ","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg ","children":["$","img",null,{"src":"/cottage.jpeg","alt":"Traditional African Cottages & Campsite","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tent","aria-hidden":"true","children":[["$","path","1szst5",{"d":"M3.5 21 14 3"}],["$","path","1310c3",{"d":"M20.5 21 10 3"}],["$","path","1ddtfw",{"d":"M15.5 21 12 15l-3.5 6"}],["$","path","1nyx9w",{"d":"M2 21h20"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"Traditional African Cottages & Campsite"}]]}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Immerse yourself in authentic heritage with our grass-thatched cottages built of mud and wattle in classic African style. Step inside to discover striking, hand-crafted master woodwork. For outdoor enthusiasts, our designated scenic campsite offers cozy mountain-side stargazing."}],["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","African-style grass-thatched cottages",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"African-style grass-thatched cottages"}]]}],["$","li","Authentic mud & wattle construction with beautiful woodwork interior",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Authentic mud & wattle construction with beautiful woodwork interior"}]]}],["$","li","Fully equipped, secure wilderness campsite",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Fully equipped, secure wilderness campsite"}]]}],["$","li","Stunning views of the foothills",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Stunning views of the foothills"}]]}],["$","li","Cozy private seating spaces",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Cozy private seating spaces"}]]}]]}]]}]]}],["$","div","Guided Safaris & Wilderness Excursions",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg md:col-start-2","children":["$","img",null,{"src":"/images/mountain-view.jpg","alt":"Guided Safaris & Wilderness Excursions","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-compass","aria-hidden":"true","children":["$L14","$L15","$undefined"]}]}],"$L16"]}],"$L17","$L18","$L19"]}]]}],"$L1a","$L1b","$L1c","$L1d","$L1e"]}]]}]}]
+9:["$","section",null,{"className":"py-16 md:py-24 bg-white","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","div",null,{"className":"text-center mb-12","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-4","children":"Grand Celebrations & Hosting"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Make your special occasion unforgettable with our custom venues and packages"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12","children":[["$","div","Weddings & Introductions",{"className":"bg-background rounded-lg p-6 text-center shadow-md flex flex-col justify-between","children":["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-2","children":"Weddings & Introductions"}],["$","p",null,{"className":"text-accent font-semibold text-sm mb-3","children":"Up to 250 guests (Indoor)"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Celebrate your love with grand indoor receptions or custom-crafted traditional cultural introductions."}]]}]}],["$","div","Conferences & retreats",{"className":"bg-background rounded-lg p-6 text-center shadow-md flex flex-col justify-between","children":["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-2","children":"Conferences & retreats"}],["$","p",null,{"className":"text-accent font-semibold text-sm mb-3","children":"Up to 400 guests"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Our state-of-the-art conference hall caters to executive assemblies and large scale summits."}]]}]}],["$","div","Staff Development Retreats",{"className":"bg-background rounded-lg p-6 text-center shadow-md flex flex-col justify-between","children":["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-2","children":"Staff Development Retreats"}],["$","p",null,{"className":"text-accent font-semibold text-sm mb-3","children":"Flexible packages"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Re-energize your corporate team with custom activities, sports, and structural development courses."}]]}]}],["$","div","Romantic Honeymoons",{"className":"bg-background rounded-lg p-6 text-center shadow-md flex flex-col justify-between","children":["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-2","children":"Romantic Honeymoons"}],["$","p",null,{"className":"text-accent font-semibold text-sm mb-3","children":"Designed for couples"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Cherish secluded walks, romantic terrace dinners, and exclusive excursions in a majestic mountain setup."}]]}]}]]}],["$","div",null,{"className":"bg-secondary rounded-lg p-8","children":[["$","h3",null,{"className":"font-serif text-2xl font-bold text-foreground mb-6","children":"Our Event Planning Services Include:"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-6","children":[["$","div","Sophisticated Grand Conference Hall (fits up to 400 guests)",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Sophisticated Grand Conference Hall (fits up to 400 guests)"}]]}],["$","div","Elegantly designed Indoor Wedding venue (fits up to 250 guests)",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Elegantly designed Indoor Wedding venue (fits up to 250 guests)"}]]}],["$","div","Lively traditional Cultural Dance performances (arranged on order)",{"className":"flex gap-3 items-start","children":["$L1f","$L20"]}],"$L21","$L22","$L23","$L24","$L25"]}]]}]]}]}]
+a:["$","section",null,{"className":"py-16 md:py-24 bg-background","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":[["$","h2",null,{"className":"font-serif text-4xl md:text-5xl font-bold text-foreground mb-12 text-center","children":"Recreation & Resort Amenities"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 gap-8 mb-12","children":[["$","div",null,{"className":"bg-white rounded-lg p-6 shadow-md flex items-center gap-6","children":[["$","div",null,{"className":"text-accent bg-background p-4 rounded-full","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":36,"height":36,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trophy","aria-hidden":"true","children":[["$","path","1n3hpd",{"d":"M10 14.66v1.626a2 2 0 0 1-.976 1.696A5 5 0 0 0 7 21.978"}],["$","path","rfe1zi",{"d":"M14 14.66v1.626a2 2 0 0 0 .976 1.696A5 5 0 0 1 17 21.978"}],["$","path","7xy6bh",{"d":"M18 9h1.5a1 1 0 0 0 0-5H18"}],["$","path","57wxv0",{"d":"M4 22h16"}],["$","path","1mhfuq",{"d":"M6 9a6 6 0 0 0 12 0V3a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1z"}],["$","path","tex48p",{"d":"M6 9H4.5a1 1 0 0 1 0-5H6"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-1","children":"Football & Netball Pitches"}],["$","p",null,{"className":"text-foreground/80 text-sm","children":"Perfect fields for corporate field matches, team matches, active recreation, and energetic family activities."}]]}]]}],["$","div",null,{"className":"bg-white rounded-lg p-6 shadow-md flex items-center gap-6","children":[["$","div",null,{"className":"text-accent bg-background p-4 rounded-full","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":36,"height":36,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flame","aria-hidden":"true","children":[["$","path","1slcih",{"d":"M12 3q1 4 4 6.5t3 5.5a1 1 0 0 1-14 0 5 5 0 0 1 1-3 1 1 0 0 0 5 0c0-2-1.5-3-1.5-5q0-2 2.5-4"}],"$undefined"]}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-serif text-xl font-bold text-foreground mb-1","children":"Sunset Firepits & Stories"}],["$","p",null,{"className":"text-foreground/80 text-sm","children":"Indulge in cozy gatherings, campfire treats, and storytelling after high-altitude Rwenzori tracking excursions."}]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8","children":[["$","div",null,{"className":"bg-white rounded-lg p-6 shadow-md","children":[["$","img",null,{"src":"/images/_DSC9736.png","alt":"Mt. Rwenzori Resort Building","className":"w-full h-48 object-cover rounded-lg"}],["$","div",null,{"className":"mt-4","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground","children":"Resort Building Gallery"}],["$","p",null,{"className":"text-foreground/80 text-sm","children":"Beautiful resort building with modern architecture and mountain views"}]]}]]}],["$","div",null,{"className":"bg-white rounded-lg p-6 shadow-md","children":[["$","img",null,{"src":"/images/mountain-view.jpg","alt":"Mountain View","className":"w-full h-48 object-cover rounded-lg"}],["$","div",null,{"className":"mt-4","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground","children":"Mountain View Test"}],["$","p",null,{"className":"text-foreground/80 text-sm","children":"Testing mountain view image display"}]]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","div","Restaurant & Bar",{"className":"bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground mb-2","children":"Restaurant & Bar"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Fine dining showcasing authentic local specialties and organic harvested farm-to-table meals."}]]}],"$L26","$L27","$L28","$L29","$L2a"]}]]}]}]
+b:["$","section",null,{"className":"bg-gradient-to-r from-primary to-primary/90 text-primary-foreground py-12 md:py-16","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 md:px-6","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12","children":[["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Book Your Stay"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Reserve your perfect mountain retreat today"}],["$","$L2b",null,{"href":"/accommodation","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"Check Availability"}]]}],["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Call Us"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Speak to our reservation team"}],["$","a",null,{"href":"tel:+256746077473","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"+256 746 077 473"}]]}],["$","div",null,{"className":"flex flex-col items-center text-center gap-4","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}],["$","h3",null,{"className":"font-serif text-2xl font-bold","children":"Email Us"}],["$","p",null,{"className":"text-sm opacity-90 mb-4","children":"Send us your inquiries"}],["$","a",null,{"href":"mailto:mtrwenzorigolfresortspa@gmail.com","className":"bg-accent text-accent-foreground px-6 py-2 rounded-lg font-semibold hover:bg-accent/90 transition-colors","children":"mtrwenzorigolfresortspa@gmail.com"}]]}]]}]}]}]
+2c:T2698,
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:opsz,wght@9..40,300;9..40,400&display=swap');
+
+        .ftr {
+          background: #1a1f1b;
+          font-family: 'DM Sans', sans-serif;
+          color: rgba(249,246,241,0.55);
+          position: relative;
+          overflow: hidden;
+        }
+
+        /* subtle radial glows */
+        .ftr::before {
+          content: '';
+          position: absolute;
+          top: 0; left: 0; right: 0;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, rgba(184,148,90,0.5), transparent);
+        }
+
+        .ftr::after {
+          content: '';
+          position: absolute;
+          bottom: -120px; right: -120px;
+          width: 480px; height: 480px;
+          background: radial-gradient(circle, rgba(44,61,46,0.35) 0%, transparent 70%);
+          pointer-events: none;
+        }
+
+        /* ─── CTA strip ──────────────────── */
+        .ftr-cta {
+          border-bottom: 1px solid rgba(255,255,255,0.06);
+          padding: clamp(40px, 6vw, 72px) clamp(20px, 5vw, 64px);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 32px;
+          flex-wrap: wrap;
+          position: relative;
+          z-index: 1;
+        }
+
+        .ftr-cta-text {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: clamp(26px, 4vw, 44px);
+          font-weight: 300;
+          color: #f9f6f1;
+          line-height: 1.15;
+          max-width: 540px;
+        }
+
+        .ftr-cta-text em {
+          font-style: italic;
+          color: #d4aa72;
+        }
+
+        .ftr-cta-btn {
+          display: inline-flex;
+          align-items: center;
+          gap: 10px;
+          background: #b8945a;
+          color: #f9f6f1;
+          padding: 14px 34px;
+          font-family: 'DM Sans', sans-serif;
+          font-size: 11px;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+          text-decoration: none;
+          border: 1px solid #b8945a;
+          border-radius: 1px;
+          white-space: nowrap;
+          flex-shrink: 0;
+          transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .ftr-cta-btn:hover {
+          background: #d4aa72;
+          border-color: #d4aa72;
+          transform: translateY(-2px);
+          box-shadow: 0 10px 32px rgba(184,148,90,0.3);
+        }
+
+        /* ─── Main grid ──────────────────── */
+        .ftr-main {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: clamp(48px, 7vw, 88px) clamp(20px, 5vw, 64px) 0;
+          display: grid;
+          grid-template-columns: 1.8fr 1fr 1fr 1.4fr;
+          gap: 48px 56px;
+          position: relative;
+          z-index: 1;
+        }
+
+        @media (max-width: 1024px) {
+          .ftr-main { grid-template-columns: 1fr 1fr; }
+        }
+        @media (max-width: 560px) {
+          .ftr-main { grid-template-columns: 1fr; }
+        }
+
+        /* ─── Brand col ──────────────────── */
+        .ftr-brand-logo {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          text-decoration: none;
+          margin-bottom: 20px;
+        }
+
+        .ftr-brand-logo img {
+          width: 48px;
+          height: 48px;
+          object-fit: contain;
+          border-radius: 50%;
+          border: 1px solid rgba(184,148,90,0.3);
+        }
+
+        .ftr-brand-name {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 20px;
+          font-weight: 400;
+          color: #f9f6f1;
+          line-height: 1;
+        }
+
+        .ftr-brand-sub {
+          font-size: 9px;
+          letter-spacing: 0.2em;
+          text-transform: uppercase;
+          color: #b8945a;
+          margin-top: 4px;
+          font-weight: 400;
+          display: block;
+        }
+
+        .ftr-brand-desc {
+          font-size: 13.5px;
+          line-height: 1.8;
+          color: rgba(249,246,241,0.45);
+          font-weight: 300;
+          margin-bottom: 28px;
+          max-width: 300px;
+        }
+
+        .ftr-socials {
+          display: flex;
+          gap: 6px;
+        }
+
+        .ftr-social {
+          width: 36px;
+          height: 36px;
+          border: 1px solid rgba(255,255,255,0.1);
+          border-radius: 1px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: rgba(249,246,241,0.4);
+          text-decoration: none;
+          transition: border-color 0.25s ease, color 0.25s ease, background 0.25s ease;
+        }
+
+        .ftr-social:hover {
+          border-color: #b8945a;
+          color: #b8945a;
+          background: rgba(184,148,90,0.08);
+        }
+
+        /* ─── Column heading ─────────────── */
+        .ftr-col-head {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          font-size: 10px;
+          letter-spacing: 0.22em;
+          text-transform: uppercase;
+          color: #b8945a;
+          font-weight: 400;
+          margin-bottom: 20px;
+        }
+
+        .ftr-col-head::before {
+          content: '';
+          display: block;
+          width: 20px;
+          height: 1px;
+          background: #b8945a;
+          flex-shrink: 0;
+        }
+
+        /* ─── Nav links ──────────────────── */
+        .ftr-nav-list {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .ftr-nav-link {
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          text-decoration: none;
+          padding: 6px 0;
+          display: inline-flex;
+          align-items: center;
+          gap: 0;
+          border-bottom: 1px solid transparent;
+          transition: color 0.25s ease, gap 0.3s ease;
+          font-weight: 300;
+          letter-spacing: 0.02em;
+        }
+
+        .ftr-nav-link::before {
+          content: '—';
+          font-size: 10px;
+          color: #b8945a;
+          opacity: 0;
+          width: 0;
+          overflow: hidden;
+          transition: opacity 0.25s ease, width 0.3s ease;
+          letter-spacing: 0;
+        }
+
+        .ftr-nav-link:hover {
+          color: #f9f6f1;
+          gap: 8px;
+        }
+
+        .ftr-nav-link:hover::before {
+          opacity: 1;
+          width: 20px;
+        }
+
+        /* ─── Services list ──────────────── */
+        .ftr-service-item {
+          font-size: 13px;
+          color: rgba(249,246,241,0.45);
+          padding: 6px 0;
+          font-weight: 300;
+          letter-spacing: 0.02em;
+          border-bottom: 1px solid rgba(255,255,255,0.04);
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .ftr-service-item::before {
+          content: '';
+          display: block;
+          width: 4px;
+          height: 4px;
+          border-radius: 50%;
+          background: #b8945a;
+          opacity: 0.6;
+          flex-shrink: 0;
+        }
+
+        /* ─── Contact items ──────────────── */
+        .ftr-contact-list {
+          display: flex;
+          flex-direction: column;
+          gap: 14px;
+        }
+
+        .ftr-contact-item {
+          display: flex;
+          gap: 12px;
+          align-items: flex-start;
+          font-size: 13px;
+          color: rgba(249,246,241,0.5);
+          font-weight: 300;
+          line-height: 1.6;
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        a.ftr-contact-item:hover { color: rgba(249,246,241,0.85); }
+
+        .ftr-contact-icon {
+          width: 30px;
+          height: 30px;
+          border: 1px solid rgba(184,148,90,0.25);
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #b8945a;
+          flex-shrink: 0;
+          margin-top: 1px;
+        }
+
+        /* ─── Bottom bar ─────────────────── */
+        .ftr-bottom {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: 32px clamp(20px, 5vw, 64px) clamp(32px, 5vw, 48px);
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 20px;
+          flex-wrap: wrap;
+          border-top: 1px solid rgba(255,255,255,0.06);
+          margin-top: 56px;
+          position: relative;
+          z-index: 1;
+        }
+
+        .ftr-bottom-left {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
+        }
+
+        .ftr-copyright {
+          font-size: 12px;
+          color: rgba(249,246,241,0.35);
+          letter-spacing: 0.04em;
+        }
+
+        .ftr-dev {
+          font-size: 11px;
+          color: rgba(249,246,241,0.2);
+          letter-spacing: 0.06em;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          flex-wrap: wrap;
+        }
+
+        .ftr-dev a {
+          color: rgba(249,246,241,0.3);
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        .ftr-dev a:hover { color: #b8945a; }
+
+        .ftr-dev-sep {
+          opacity: 0.3;
+        }
+
+        .ftr-bottom-right {
+          display: flex;
+          gap: 24px;
+        }
+
+        .ftr-legal-link {
+          font-size: 11px;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          color: rgba(249,246,241,0.25);
+          text-decoration: none;
+          transition: color 0.25s ease;
+        }
+
+        .ftr-legal-link:hover { color: rgba(249,246,241,0.6); }
+      c:[["$","style",null,{"children":"$2c"}],"$L2d"]
+d:["$","script","script-0",{"src":"/_next/static/chunks/0iscyf14w67qm.js","async":true,"nonce":"$undefined"}]
+e:["$","$L2e",null,{"children":["$","$2f",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+31:[]
+f:"$W31"
+10:["$","$1","h",{"children":[null,["$","$L32",null,{"children":"$L33"}],["$","div",null,{"hidden":true,"children":["$","$L34",null,{"children":["$","$2f",null,{"name":"Next.Metadata","children":"$L35"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/01w.hx3iqd.el.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/058mg54l03mzv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+:HL["https://images.unsplash.com/photo-1595855759920-86582396756a?auto=format&fit=crop&w=1200&q=80","image"]
+:HL["/images/firepit.jpg","image"]
+:HL["/images/terrace.jpg","image"]
+:HL["/logo.JPG","image"]
+14:["$","path","9ktpf1",{"d":"m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"}]
+15:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+16:["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"Guided Safaris & Wilderness Excursions"}]
+17:["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Our resort is the perfect gateway to Western Uganda’s natural marvels. Embark on rugged climbs, track rare primates, or experience natural therapeutic thermal waters just a short distance from your cottage door."}]
+18:["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}]
+19:["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Breathtaking guided hiking trips up Mt. Rwenzori",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Breathtaking guided hiking trips up Mt. Rwenzori"}]]}],["$","li","Gorilla tracking excursions at Kibale National Game Park",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Gorilla tracking excursions at Kibale National Game Park"}]]}],["$","li","Restorative day-trips to Rwagimba Hot Springs",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Restorative day-trips to Rwagimba Hot Springs"}]]}],["$","li","Just a 1-hour scenic drive to Semuliki Hot Springs",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Just a 1-hour scenic drive to Semuliki Hot Springs"}]]}],["$","li","Only a 40-minute drive to Queen Elizabeth National Game Park",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Only a 40-minute drive to Queen Elizabeth National Game Park"}]]}]]}]
+1a:["$","div","Organic Farm-to-Table & Rivers",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center ","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg ","children":["$","img",null,{"src":"https://images.unsplash.com/photo-1595855759920-86582396756a?auto=format&fit=crop&w=1200&q=80","alt":"Organic Farm-to-Table & Rivers","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-utensils","aria-hidden":"true","children":[["$","path","cjf0a3",{"d":"M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"}],["$","path","1473qp",{"d":"M7 2v20"}],["$","path","j28e5",{"d":"M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"Organic Farm-to-Table & Rivers"}]]}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Experience authentic country life at our hotel farm. Walk alongside grazing dairy cattle, try your hand at morning milking, and indulge in seasonal harvested foods freshly prepared by our culinary team. Complete your adventure with an invigorating cold splash in River Peripa."}],["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Interact with grazing and milking cattle on our hotel farm",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Interact with grazing and milking cattle on our hotel farm"}]]}],["$","li","Delicious local & global cuisine made from freshly harvested organic foods",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Delicious local & global cuisine made from freshly harvested organic foods"}]]}],["$","li","Invigorating cold showers in the pristine River Peripa",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Invigorating cold showers in the pristine River Peripa"}]]}],["$","li","Guided nature walks along scenic trails around the hotel",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Guided nature walks along scenic trails around the hotel"}]]}],["$","li","Full Restaurant & Bar serving curated cocktails and local brews",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Full Restaurant & Bar serving curated cocktails and local brews"}]]}]]}]]}]]}]
+1b:["$","div","Cozy Firepit",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg md:col-start-2","children":["$","img",null,{"src":"/images/firepit.jpg","alt":"Cozy Firepit","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-flame","aria-hidden":"true","children":[["$","path","1slcih",{"d":"M12 3q1 4 4 6.5t3 5.5a1 1 0 0 1-14 0 5 5 0 0 1 1-3 1 1 0 0 0 5 0c0-2-1.5-3-1.5-5q0-2 2.5-4"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"Cozy Firepit"}]]}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Gather around our outdoor firepit for intimate evenings under the stars. Perfect for roasting marshmallows, storytelling, and creating unforgettable memories with loved ones after a long day of tracking and hiking."}],["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Seating for up to 40 guests",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Seating for up to 40 guests"}]]}],["$","li","Complimentary wood and kindling",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Complimentary wood and kindling"}]]}],["$","li","Roasting equipment provided",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Roasting equipment provided"}]]}],["$","li","Perfect stargazing spot",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Perfect stargazing spot"}]]}],["$","li","Cozy lounge seating",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Cozy lounge seating"}]]}]]}]]}]]}]
+1c:["$","div","Expansive Terrace",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center ","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg ","children":["$","img",null,{"src":"/images/terrace.jpg","alt":"Expansive Terrace","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-wine","aria-hidden":"true","children":[["$","path","rmew8v",{"d":"M8 22h8"}],["$","path","1101jm",{"d":"M7 10h10"}],["$","path","t2xh3l",{"d":"M12 15v7"}],["$","path","10ffi3",{"d":"M12 15a5 5 0 0 0 5-5c0-2-.5-4-2-8H9c-1.5 4-2 6-2 8a5 5 0 0 0 5 5Z"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"Expansive Terrace"}]]}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Enjoy breathtaking mountain views from our spacious terrace. Ideal for al fresco dining, morning coffee, evening cocktails, or simply relaxing with a book."}],["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Panoramic mountain views",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Panoramic mountain views"}]]}],["$","li","Weather-protected seating",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Weather-protected seating"}]]}],["$","li","Fine dining restaurant access",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Fine dining restaurant access"}]]}],["$","li","Bar service available",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Bar service available"}]]}],["$","li","Event hosting capabilities",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Event hosting capabilities"}]]}]]}]]}]]}]
+1d:["$","div","High-Speed WiFi",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center md:grid-flow-dense","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg md:col-start-2","children":["$","img",null,{"src":"/images/mountain-view.jpg","alt":"High-Speed WiFi","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-wifi","aria-hidden":"true","children":[["$","path","zekei9",{"d":"M12 20h.01"}],["$","path","dnpr2z",{"d":"M2 8.82a15 15 0 0 1 20 0"}],["$","path","1x1e6c",{"d":"M5 12.859a10 10 0 0 1 14 0"}],["$","path","1bycff",{"d":"M8.5 16.429a5 5 0 0 1 7 0"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"High-Speed WiFi"}]]}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Stay connected with premium high-speed WiFi throughout the resort. Available in all rooms, common areas, terrace, and golf course facilities."}],["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Ultra-fast 5G connectivity",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Ultra-fast 5G connectivity"}]]}],["$","li","Available everywhere on grounds",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Available everywhere on grounds"}]]}],["$","li","Multiple password-protected networks",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Multiple password-protected networks"}]]}],["$","li","24/7 technical support",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"24/7 technical support"}]]}],["$","li","Video conferencing ready",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Video conferencing ready"}]]}]]}]]}]]}]
+1e:["$","div","Grand Celebrations & Events",{"className":"grid grid-cols-1 md:grid-cols-2 gap-12 items-center ","children":[["$","div",null,{"className":"relative h-96 rounded-lg overflow-hidden shadow-lg ","children":["$","img",null,{"src":"/images/terrace.jpg","alt":"Grand Celebrations & Events","className":"w-full h-full object-cover"}]}],["$","div",null,{"children":[["$","div",null,{"className":"flex gap-4 items-start mb-4","children":[["$","div",null,{"className":"text-accent","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":32,"height":32,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-users","aria-hidden":"true","children":[["$","path","1yyitq",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"}],["$","path","16gr8j",{"d":"M16 3.128a4 4 0 0 1 0 7.744"}],["$","path","kshegd",{"d":"M22 21v-2a4 4 0 0 0-3-3.87"}],["$","circle","nufk8",{"cx":"9","cy":"7","r":"4"}],"$undefined"]}]}],["$","h3",null,{"className":"font-serif text-3xl font-bold text-foreground","children":"Grand Celebrations & Events"}]]}],["$","p",null,{"className":"text-foreground/80 mb-6 leading-relaxed","children":"Host your grand milestones at Mt. Rwenzori Golf Resort & Spa. From beautiful cultural introductions to magnificent corporate banquets, our versatile spaces and culinary experts ensure perfection."}],["$","h4",null,{"className":"font-semibold text-foreground mb-3","children":"Key Highlights:"}],["$","ul",null,{"className":"space-y-2 mb-6","children":[["$","li","Grand Conference Hall accommodating up to 400 guests",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Grand Conference Hall accommodating up to 400 guests"}]]}],["$","li","Indoor Wedding Venue layout for up to 250 guests",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Indoor Wedding Venue layout for up to 250 guests"}]]}],["$","li","Lively traditional cultural dance performances arranged on order",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Lively traditional cultural dance performances arranged on order"}]]}],["$","li","Customized corporate team-building and retreat packages",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Customized corporate team-building and retreat packages"}]]}],["$","li","Charming honeymoon itineraries in cozy private settings",{"className":"flex gap-3 items-start text-foreground/80","children":[["$","span",null,{"className":"text-accent font-bold","children":"•"}],["$","span",null,{"children":"Charming honeymoon itineraries in cozy private settings"}]]}]]}]]}]]}]
+1f:["$","span",null,{"className":"text-accent font-bold","children":"✓"}]
+20:["$","span",null,{"className":"text-foreground/80","children":"Lively traditional Cultural Dance performances (arranged on order)"}]
+21:["$","div","Complete venue staging, beautiful floral, and setup styling",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Complete venue staging, beautiful floral, and setup styling"}]]}]
+22:["$","div","Professional local and international catering with open bars",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Professional local and international catering with open bars"}]]}]
+23:["$","div","Staff development retreats with tailored sports and workshops",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Staff development retreats with tailored sports and workshops"}]]}]
+24:["$","div","Advanced audio/visual, stage lighting, and professional support",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Advanced audio/visual, stage lighting, and professional support"}]]}]
+25:["$","div","Accommodations for your party with specialized honeymoon suites",{"className":"flex gap-3 items-start","children":[["$","span",null,{"className":"text-accent font-bold","children":"✓"}],["$","span",null,{"className":"text-foreground/80","children":"Accommodations for your party with specialized honeymoon suites"}]]}]
+26:["$","div","Library Lounge",{"className":"bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground mb-2","children":"Library Lounge"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"A cozy reading room with a great selection of nature books and comfortable seating areas."}]]}]
+27:["$","div","Gym & Fitness",{"className":"bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground mb-2","children":"Gym & Fitness"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Fully equipped fitness center configured to condition you for demanding Rwenzori tracking."}]]}]
+28:["$","div","Game Room",{"className":"bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground mb-2","children":"Game Room"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Billiards, board games, and fun challenges to enjoy with your family and retreat colleagues."}]]}]
+29:["$","div","Gift Shop",{"className":"bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground mb-2","children":"Gift Shop"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Take home beautiful handcrafted memories made by the local mountain community."}]]}]
+2a:["$","div","Concierge Service",{"className":"bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow","children":[["$","h3",null,{"className":"font-serif text-lg font-bold text-foreground mb-2","children":"Concierge Service"}],["$","p",null,{"className":"text-foreground/80 text-sm leading-relaxed","children":"Friendly 24/7 hospitality desk ready to arrange your hot spring excursions and river dips."}]]}]
+2d:["$","footer",null,{"className":"ftr","children":[["$","div",null,{"className":"ftr-cta","children":[["$","p",null,{"className":"ftr-cta-text","children":["Your mountain escape ",["$","em",null,{"children":"awaits."}],["$","br",null,{}],"Reserve your stay today."]}],["$","$L2b",null,{"href":"/booking","className":"ftr-cta-btn","children":["Book Your Stay",["$","svg",null,{"width":"14","height":"14","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1.5,"d":"M13 7l5 5m0 0l-5 5m5-5H6"}]}]]}]]}],["$","div",null,{"className":"ftr-main","children":[["$","div",null,{"children":[["$","$L2b",null,{"href":"/","className":"ftr-brand-logo","children":[["$","img",null,{"src":"/logo.JPG","alt":"Mt. Rwenzori Golf Resort"}],["$","div",null,{"children":[["$","span",null,{"className":"ftr-brand-name","children":"Mt. Rwenzori"}],["$","span",null,{"className":"ftr-brand-sub","children":"Golf Resort & Spa"}]]}]]}],["$","p",null,{"className":"ftr-brand-desc","children":"A serene mountain retreat in the heart of the Rwenzori Mountains — offering luxury accommodation, championship golf, and world-class spa services."}],["$","div",null,{"className":"ftr-socials","children":[["$","a","Facebook",{"href":"https://www.facebook.com/profile.php?id=61589477902150","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"Facebook","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-facebook","aria-hidden":"true","children":[["$","path","1jg4f8",{"d":"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"}],"$undefined"]}]}],["$","a","Instagram",{"href":"https://instagram.com","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"Instagram","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}],["$","a","X",{"href":"https://x.com/home","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"X","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","a","TikTok",{"href":"https://tiktok.com/@mtrwenzori","target":"_blank","rel":"noopener noreferrer","className":"ftr-social","aria-label":"TikTok","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-music","aria-hidden":"true","children":[["$","path","1jmyc2",{"d":"M9 18V5l12-2v13"}],["$","circle","fqmcym",{"cx":"6","cy":"18","r":"3"}],["$","circle","1hluhg",{"cx":"18","cy":"16","r":"3"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Navigate"}],["$","ul",null,{"className":"ftr-nav-list","children":[["$","li","/",{"children":["$","$L2b",null,{"href":"/","className":"ftr-nav-link","children":"Home"}]}],["$","li","/accommodation",{"children":["$","$L2b",null,{"href":"/accommodation","className":"ftr-nav-link","children":"Accommodation"}]}],["$","li","/golf",{"children":["$","$L2b",null,{"href":"/golf","className":"ftr-nav-link","children":"Golf"}]}],["$","li","/spa",{"children":["$","$L2b",null,{"href":"/spa","className":"ftr-nav-link","children":"Spa"}]}],["$","li","/amenities",{"children":["$","$L2b",null,{"href":"/amenities","className":"ftr-nav-link","children":"Amenities"}]}],["$","li","/about",{"children":["$","$L2b",null,{"href":"/about","className":"ftr-nav-link","children":"About"}]}],["$","li","/contact",{"children":["$","$L2b",null,{"href":"/contact","className":"ftr-nav-link","children":"Contact"}]}]]}]]}],"$L36","$L37"]}],"$L38"]}]
+36:["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Services"}],["$","div",null,{"children":[["$","div","9-Hole Golf Course",{"className":"ftr-service-item","children":"9-Hole Golf Course"}],["$","div","Premium Spa & Wellness",{"className":"ftr-service-item","children":"Premium Spa & Wellness"}],["$","div","Full English Breakfast",{"className":"ftr-service-item","children":"Full English Breakfast"}],["$","div","High-Speed WiFi",{"className":"ftr-service-item","children":"High-Speed WiFi"}],["$","div","Event Hosting",{"className":"ftr-service-item","children":"Event Hosting"}],["$","div","Mountain Trekking",{"className":"ftr-service-item","children":"Mountain Trekking"}]]}]]}]
+37:["$","div",null,{"children":[["$","div",null,{"className":"ftr-col-head","children":"Contact Us"}],["$","div",null,{"className":"ftr-contact-list","children":[["$","div",null,{"className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-map-pin","aria-hidden":"true","children":[["$","path","1r0f0z",{"d":"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"}],["$","circle","ilqhr7",{"cx":"12","cy":"10","r":"3"}],"$undefined"]}]}],["$","span",null,{"children":"Kasese, Rwenzori Mountain Region, Uganda"}]]}],["$","a",null,{"href":"tel:+256746077473","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}]}],["$","span",null,{"children":"+256 746 077 473"}]]}],["$","a",null,{"href":"tel:+256774751727","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-phone","aria-hidden":"true","children":[["$","path","9njp5v",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"}],"$undefined"]}]}],["$","span",null,{"children":"+256 774 751 727"}]]}],["$","a",null,{"href":"mailto:mtrwenzorigolfresortspa@gmail.com","className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}]}],["$","span",null,{"children":"mtrwenzorigolfresortspa@gmail.com"}]]}],["$","div",null,{"className":"ftr-contact-item","children":[["$","div",null,{"className":"ftr-contact-icon","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}]}],["$","span",null,{"children":["Open Year-Round",["$","br",null,{}],"Check-in from 2:00 PM"]}]]}]]}]]}]
+38:["$","div",null,{"className":"ftr-bottom","children":[["$","div",null,{"className":"ftr-bottom-left","children":[["$","p",null,{"className":"ftr-copyright","children":["© ",2026,"Mt. Rwenzori Golf Resort & Spa. All rights reserved."]}],["$","div",null,{"className":"ftr-dev","children":[["$","span",null,{"children":"Developed by Baliddawa Allan "}],["$","span",null,{"className":"ftr-dev-sep","children":"·"}],["$","a",null,{"href":"tel:0700966715","children":"0700 966 715"}],["$","span",null,{"className":"ftr-dev-sep","children":"·"}],["$","a",null,{"href":"tel:0785639406","children":"0785 639 406"}]]}]]}],["$","div",null,{"className":"ftr-bottom-right","children":[["$","$L2b",null,{"href":"#","className":"ftr-legal-link","children":"Privacy"}],["$","$L2b",null,{"href":"#","className":"ftr-legal-link","children":"Terms"}],["$","$L2b",null,{"href":"/contact","className":"ftr-legal-link","children":"Contact"}]]}]]}]
+33:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}],["$","meta","2",{"name":"theme-color","content":"#f9f6f1","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#2c3d2e","media":"(prefers-color-scheme: dark)"}]]
+39:I[19772,["/_next/static/chunks/0-a.-ff0.k~ps.js","/_next/static/chunks/14~kgkvlf1dej.js"],"IconMark"]
+30:null
+35:[["$","title","0",{"children":"Experiences & Amenities | Mt. Rwenzori Golf Resort & Spa | Mt. Rwenzori Golf Resort & Spa"}],["$","meta","1",{"name":"description","content":"Discover world-class activities, from gorilla tracking and Rwenzori hikes to traditional cottages, fine dining, and grand celebrations."}],["$","meta","2",{"name":"author","content":"Mt. Rwenzori Golf Resort & Spa"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"keywords","content":"Mt Rwenzori Golf Resort,luxury golf resort Uganda,mountain spa retreat Uganda,Rwenzori accommodation,golf spa Kasese Uganda,luxury lodge Rwenzori Mountains,Uganda mountain resort,championship golf Uganda"}],["$","meta","5",{"name":"creator","content":"Mt. Rwenzori Golf Resort & Spa"}],["$","meta","6",{"name":"publisher","content":"Mt. Rwenzori Golf Resort & Spa"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"category","content":"travel"}],["$","link","10",{"rel":"canonical","href":"https://mtrwenzorigolfresort.com"}],["$","meta","11",{"property":"og:title","content":"Mt. Rwenzori Golf Resort & Spa | Luxury Mountain Retreat, Uganda"}],["$","meta","12",{"property":"og:description","content":"A serene mountain retreat in the heart of the Rwenzori Mountains — championship golf, premium spa, luxury accommodation, and unforgettable views."}],["$","meta","13",{"property":"og:url","content":"https://mtrwenzorigolfresort.com"}],["$","meta","14",{"property":"og:site_name","content":"Mt. Rwenzori Golf Resort & Spa"}],["$","meta","15",{"property":"og:locale","content":"en_UG"}],["$","meta","16",{"property":"og:image","content":"https://mtrwenzorigolfresort.com/images/og-cover.jpg"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"Mt. Rwenzori Golf Resort & Spa — aerial mountain view"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"Mt. Rwenzori Golf Resort & Spa | Uganda"}],["$","meta","23",{"name":"twitter:description","content":"Championship golf, world-class spa, and luxury mountain accommodation in the heart of Uganda."}],["$","meta","24",{"name":"twitter:image","content":"https://mtrwenzorigolfresort.com/images/og-cover.jpg"}],["$","link","25",{"rel":"shortcut icon","href":"/logo.JPG"}],["$","link","26",{"rel":"icon","href":"/logo.JPG"}],["$","link","27",{"rel":"apple-touch-icon","href":"/logo.JPG"}],["$","$L39","28",{}]]
