@@ -532,7 +532,7 @@ export function Footer() {
               &copy; {currentYear} Mt. Rwenzori Golf Resort &amp; Spa. All rights reserved.
             </p>
             <div className="ftr-dev">
-              <span>Developed by Baliddawa Allan</span>
+              <span>Developed by Baliddawa Allan </span>
               <span className="ftr-dev-sep">·</span>
               <a href="tel:0700966715">0700 966 715</a>
               <span className="ftr-dev-sep">·</span>
