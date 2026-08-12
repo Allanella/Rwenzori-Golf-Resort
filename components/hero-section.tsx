@@ -34,13 +34,6 @@ export function HeroSection({
   }, []);
 
   useEffect(() => {
-    if (video) {
-      const timer = setTimeout(() => setVideoLoaded(true), 800);
-      return () => clearTimeout(timer);
-    }
-  }, [video]);
-
-  useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
       if (!sectionRef.current) return;
       const rect = sectionRef.current.getBoundingClientRect();
@@ -322,7 +315,7 @@ export function HeroSection({
 
         .hero-scroll-thumb {
           position: absolute;
-          top: -100%;
+          top: -40%;
           left: 0;
           width: 100%;
           height: 40%;
@@ -405,9 +398,10 @@ export function HeroSection({
             loop
             muted
             playsInline
-            className={video && videoLoaded ? 'hero-video-loaded' : ''}
+            preload="auto"
+            className={videoLoaded ? 'hero-video-loaded' : ''}
             onError={handleVideoError}
-            onCanPlay={() => setVideoLoaded(true)}
+            onLoadedData={() => setVideoLoaded(true)}
             style={{
               position: 'absolute',
               inset: 0,
